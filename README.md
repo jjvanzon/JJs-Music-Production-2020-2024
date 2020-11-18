@@ -52,7 +52,7 @@ Links
 Song Selection (and Tasks/Requirements)
 ---------------------------------------
 
-13 songs already selected
+14 songs already selected
 
 ### MiniDisk
 
@@ -65,13 +65,16 @@ Song Selection (and Tasks/Requirements)
     - Classic-ish
     - MiniDisk song __7__
     - [ ] Add some some repetition?
-- Blues piano
+- Blues piano 1
     - Me on piano + wave table
     - MiniDisk song __14__
     - Not my favorite. May include anyway.
 - Short but sweet
     - MiniDisk song __15__
     - [ ] Make 2x longer?
+- Blues piano 2
+    - Me on piano + wave table
+    - MiniDisk song __16__
 - 'Ashtray song'
     - Sound scape
     - MiniDisk song __19__
