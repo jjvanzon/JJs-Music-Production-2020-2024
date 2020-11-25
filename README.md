@@ -21,70 +21,50 @@ Steps
     - [ ] Cubase song inspection: not easy
     - [ ] Tape casette inspection?
 - [ ] Analyzing requirements
-- [ ] __Research__
-    - [ ] __Finding out how to record XM songs.__
-    - [ ] __Finding a way to record MiniDisk content to PC.__
+- [ ] Research
+    - [x] Finding out how to record XM songs.
+    - [x] Finding a way to record MiniDisk content to PC.
     - [ ] Try finding tape casettes in attic.
 - [ ] __Organizing samples__
+- [ ] Volume maximization
 
 
-Techniques Used
----------------
-
-- VLC Media Player
-- FastTracker 2 (.XM files)
-- Logic Audio
-- Cubase
-- MiniDisk
-- Casette tape?
-- Sound Blaster 64
-- Windows 98?
-- 1st Pentium PC?
-
-
-Links
------
-
-- Full text of "Impulse Tracker II User Manual":
-    - https://archive.org/stream/ImpulseTrackerIIUserManual/Impulse%20Tracker%20II%20User%20Manual_djvu.txt
-
-
-Song Selection (and Tasks/Requirements)
+Songs (and Tasks/Requirements)
 ---------------------------------------
 
 14 songs already selected
 
 ### MiniDisk
 
-- Not My Favorite Wave Table Song
+- [x] Not My Favorite Wave Table Song
     - But some one else might like it.
     - MiniDisk song __6__
     - 'Blue' CD song 2
     - Wave table song.
-- Oboes
+- [ ] Oboes
     - Classic-ish
     - MiniDisk song __7__
     - [ ] Add some some repetition?
-- Blues piano 1
+- [ ] Blues Piano 1
     - Me on piano + wave table
     - MiniDisk song __14__
     - Not my favorite. May include anyway.
-- Short but sweet
+- [ ] Short But Sweet
     - MiniDisk song __15__
     - [ ] Make 2x longer?
-- Blues piano 2
+- [ ] Blues Piano 2
     - Me on piano + wave table
     - MiniDisk song __16__
-- 'Ashtray song'
+- [ ] 'Ashtray Song'
     - Sound scape
     - MiniDisk song __19__
-- Sad organ
+- [ ] Sad Organ
     - Counterpoint composition
     - Made using Logic Audio sequencer and Sound Blaster 64 wave table
     - MiniDisk song __20__ = shorter
     - MiniDisk song __22__ + __23__ + __24__ = longer version, in parts for some reason, ends with theme. A bit long.
     - [ ] Maybe make second version a bit shorter?
-- Funky counterpoint
+- [ ] Funky Counterpoint
     - MiniDisk song __21__
     - Nicer sort of funky counterpoint.
     - [ ] Make 2x longer?
@@ -147,18 +127,29 @@ Collections yet to inspect (but difficult to salvage for now).
     - Might be nice composition-wise, but perhaps might do better with better sounds.
 
 
+Techniques Used
+---------------
+
+- VLC Media Player
+- FastTracker 2 (.XM files)
+- Logic Audio
+- Cubase
+- MiniDisk
+- Casette tape?
+- Sound Blaster 64
+- Windows 98?
+- 1st Pentium PC?
+
+
+Links
+-----
+
+- Full text of "Impulse Tracker II User Manual":
+    - https://archive.org/stream/ImpulseTrackerIIUserManual/Impulse%20Tracker%20II%20User%20Manual_djvu.txt
+
+
 TODO
 ----
-
-### 2020-09-17 TODO Organizing Samples
-
-- [ ] Deduplicating samples?
-- [ ] Systematic check of sub-categories' contents?
-- [ ] Sharing sample library on GitHub?
-
-### 2020-09-08 TODO FastTracker 2 Orientation
-
-- [ ] I think I found a disk recording option.
 
 ### 2020-09-08 TODO Adapting Song "Luister.xm"
 
@@ -170,9 +161,19 @@ TODO
 - [x] Google Drive is not happy with my accidental folder move or something.
 - [ ] Might split up sample files into a folder a letter. (Rigorous categorization might go a tad far for now.)
 
-### 2020-09-13 TODO Ideas Recording MiniDisk to PC
 
-- [ ] Otherwise I might wait until I may have built a new big PC, which might have audio ports that actually work.
+Postponed
+---------
+
+### 2020-09-17 Postponed Organizing Samples
+
+- [ ] Deduplicating samples?
+- [ ] Systematic check of sub-categories' contents?
+- [ ] Sharing sample library on GitHub?
+
+### 2020-09-08 Postponed FastTracker 2 Orientation
+
+- [ ] I think I found a disk recording option.
 
 
 Done
@@ -235,6 +236,7 @@ Salvage them all either way?
 - [x] I accepted that analog audio ports might be the only way I see right now.
 - [x] ~~Maybe updating the audio driver of the laptop worked as in maybe now the laptop will recognize audio is input, instead of insisting it is output.~~
 - [x] ~~Alternatively, the old big PC audio card might work if I move cards around in it internally.~~
+- [x] Otherwise I might wait until I may have built a new big PC, which might have audio ports that actually work.
 
 ### 2020-09-17 Done Organizing Samples
 
@@ -271,4 +273,10 @@ I would like to change the folder structure of the samples, because DosBox/Impul
     - [x] "GEN" => "GENERATD"
     - [x] Spreading content over SYNBEEP and ELECTRFX
     - [x] Moving some of the CYMBAL content to CRASH or HIHAT
+
+### 2020-11-20 Done Adapting Song "Not My Favorite Wave Table Song"
+
+- [x] Maximizing volume
+- [x] Volume factor: 1.2
+- [x] Using Audacity Adjustable Fade
 
