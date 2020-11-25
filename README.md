@@ -45,14 +45,15 @@ Songs (and Tasks/Requirements)
     - Classic-ish
     - MiniDisk song __7__
     - [ ] Add some some repetition?
-- [ ] Blues Piano 1
+- [x] Blues Piano 1
     - Me on piano + wave table
     - MiniDisk song __14__
     - Not my favorite. May include anyway.
+    - High amplification factor. Might re-record.
 - [ ] Short But Sweet
     - MiniDisk song __15__
     - [ ] Make 2x longer?
-- [ ] Blues Piano 2
+- [x] Blues Piano 2
     - Me on piano + wave table
     - MiniDisk song __16__
 - [ ] 'Ashtray Song'
@@ -211,7 +212,6 @@ Salvage them all either way?
     - Track 22 might be usable.
     - Track 27 might be usable.
 
-
 ### 2020-09-08 Done FastTracker 2 Orientation
 
 - [x] Downloaded FastTracker
@@ -280,3 +280,11 @@ I would like to change the folder structure of the samples, because DosBox/Impul
 - [x] Volume factor: 1.2
 - [x] Using Audacity Adjustable Fade
 
+### 2020-11-25 Done Adapting Song "Blues Piano 1"
+
+- [x] Volume Maximization
+- [x] Factor: 2.18
+
+### 2020-11-25 Done Adapting Song "Blues Piano 2"
+
+- [x] Maximizing volume. Coefficient = 2.38
