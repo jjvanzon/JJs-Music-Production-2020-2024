@@ -30,7 +30,7 @@ Steps
 
 
 Songs (and Tasks/Requirements)
----------------------------------------
+------------------------------
 
 14 songs already selected
 
@@ -77,11 +77,11 @@ Songs (and Tasks/Requirements)
 
 ### Impulse Tracker
 
-- 'Rock' tracker song
-    - Made using Impulse Tracker
-    - It seems there are 2 variations.
-    - [ ] May use ROKZAWEL.IT but faster?
-    - [ ] May use EXAM2.IT but slower?
+- [ ] 'Rock' tracker song
+    - [x] It seems there are 2 variations.
+    - [x] May use EXAM2.IT but slower
+    - [ ] Take some inspiration from ROKZAWEL.IT ?
+    - [ ] Echo at the end ?
 - Zielig.IT
     - [ ] Make longer?
 - Realgene.s3m
@@ -95,8 +95,12 @@ Songs (and Tasks/Requirements)
 
 ### Fast Tracker
 
-- Luister.xm
-    - [ ] With some changes?
+- [ ] LUISTER2.XM
+    - [x] Partially replacing sax
+    - [x] Mixing
+    - [x] Cleaner envelopes
+    - [x] Effect chords at announcing moments
+    - [ ] Extended end chord
 
 ### Pending
 
