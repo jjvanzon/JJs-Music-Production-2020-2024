@@ -49,22 +49,27 @@ Songs (and Tasks/Requirements)
     - Me on piano + wave table
     - MiniDisk song __14__
     - Not my favorite. May include anyway.
-    - High amplification factor. Might re-record.
+    - [ ] High amplification factor. Might re-record.
 - [ ] Short But Sweet
     - MiniDisk song __15__
     - [ ] Make 2x longer?
 - [x] Blues Piano 2
     - Me on piano + wave table
     - MiniDisk song __16__
+    - [ ] High amplification factor. Might re-record.
 - [ ] 'Ashtray Song'
     - Sound scape
     - MiniDisk song __19__
+    - [ ] Has sharp tones. Remedied perhaps if mixed with effect-free version.
 - [ ] Sad Organ
     - Counterpoint composition
     - Made using Logic Audio sequencer and Sound Blaster 64 wave table
-    - MiniDisk song __20__ = shorter
-    - MiniDisk song __22__ + __23__ + __24__ = longer version, in parts for some reason, ends with theme. A bit long.
-    - [ ] Maybe make second version a bit shorter?
+    - [ ] MiniDisk song __20__ = shorter
+    - [ ] MiniDisk song __22__ + __23__ + __24__ = longer version, in parts for some reason, ends with theme. A bit long.
+    - Perhaps publish do both.
+    - [ ] High amplification factor. Might re-record.
+    - [ ] Tones seem harsh. Perhaps effect creating more harmonics. Exciter effect?
+    - [ ] Perhaps make give longer notes a volume envelope for subtlety vs harshness.
 - [ ] Funky Counterpoint
     - MiniDisk song __21__
     - Nicer sort of funky counterpoint.
@@ -119,7 +124,7 @@ Collections yet to inspect (but difficult to salvage for now).
 
 ### Maybe
 
-7 songs I like less, and might be more laborious to make better.
+Some songs I like less, and might be more laborious to make better.
 
 - Roseanna.s3m:
     - Might be nice composition-wise, but perhaps might do better with better sounds.
@@ -151,6 +156,12 @@ Links
 
 TODO
 ----
+
+### 2020-11-25 TODO Adapting Song "Sad Organ Shorter Version"
+
+- [x] Volume maximization. Factor = 3.79
+- [x] Experimenting with pitch shift and mix to see if harsher tones might be relieved.
+- [ ] It is my opinion that it might not be due to the lack of harmonics, but perhaps some volume curves might be more effective.
 
 ### 2020-09-08 TODO Adapting Song "Luister.xm"
 
