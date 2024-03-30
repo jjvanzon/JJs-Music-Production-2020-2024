@@ -19,12 +19,12 @@ Steps
     - [x] CD recordings inspection
     - [ ] Logic Audio song inspection: problematic
     - [ ] Cubase song inspection: not easy
-    - [ ] Tape casette inspection?
+    - [ ] Tape cassette inspection?
 - [ ] Analyzing requirements
 - [ ] Research
     - [x] Finding out how to record XM songs.
     - [x] Finding a way to record MiniDisk content to PC.
-    - [ ] Try finding tape casettes in attic.
+    - [ ] Try finding tape cassettes in attic.
 - [ ] __Organizing samples__
 - [ ] Volume maximization
 
@@ -32,7 +32,7 @@ Steps
 Songs (and Tasks/Requirements)
 ------------------------------
 
-14 songs already selected
+14 songs selected in total.
 
 ### MiniDisk
 
@@ -82,14 +82,14 @@ Songs (and Tasks/Requirements)
     - [x] May use EXAM2.IT but slower
     - [ ] Take some inspiration from ROKZAWEL.IT ?
     - [ ] Echo at the end ?
-- Zielig.IT
+- [ ] Zielig.IT
     - [ ] Make longer?
-- Realgene.s3m
+- [ ] Realgene.s3m
     - [ ] With some changes?
-- Oldm007r.IT
+- [ ] Oldm007r.IT
     - "The CD 2005" track 22?
     - Composition-wise not special, sounds might make up for it?
-- Tryout7.IT
+- [ ] Tryout7.IT
     - "The CD 2005" track 27
     - Not superb, but good enough?
 
@@ -100,7 +100,9 @@ Songs (and Tasks/Requirements)
     - [x] Mixing
     - [x] Cleaner envelopes
     - [x] Effect chords at announcing moments
-    - [ ] Extended end chord
+    - [ ] Cymbal volume swing ?
+    - [ ] Extend last chord
+    - [ ] 2nd repeat with synth lead, chords seem to hang?
 
 ### Pending
 
