@@ -96,12 +96,14 @@ Songs (and Tasks/Requirements)
 ### Fast Tracker
 
 - [ ] LUISTER2.XM
-    - [x] Partially replacing sax
+    - [x] Partially replaced sax
     - [x] Mixing
     - [x] Cleaner envelopes
     - [x] Effect chords at announcing moments
     - [x] Cymbal volume swing
-    - [x] 2nd repeat with synth lead, chords seem to hang?
+    - [x] 2nd repeat with synth lead, low string hung.
+    - [x] 1 announcing chord was bairly audible.
+    - [ ] Why are a stretch of violin legato channels all left channel in one case? For echo effect?
     - [ ] Extend final chord
 
 ### Pending
