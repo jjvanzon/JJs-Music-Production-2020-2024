@@ -100,9 +100,9 @@ Songs (and Tasks/Requirements)
     - [x] Mixing
     - [x] Cleaner envelopes
     - [x] Effect chords at announcing moments
-    - [ ] Cymbal volume swing ?
-    - [ ] Extend last chord
-    - [ ] 2nd repeat with synth lead, chords seem to hang?
+    - [x] Cymbal volume swing
+    - [x] 2nd repeat with synth lead, chords seem to hang?
+    - [ ] Extend final chord
 
 ### Pending
 
