@@ -103,8 +103,12 @@ Songs (and Tasks/Requirements)
     - [x] Cymbal volume swing
     - [x] 2nd repeat with synth lead, low string hung.
     - [x] 1 announcing chord was bairly audible.
-    - [ ] Why are a stretch of violin legato channels all left channel in one case? For echo effect?
+    - [x] ~~Why are a stretch of violin legato channels all left channel in one case? For echo effect?~~ \> Yes
+    - [ ] Pattern 4: Violin Full persistent chord's 3rd note may not match 2nd half of pattern.
+    - [ ] Pattern 4: Whistle is weird (listen solo)
+    - [ ] Pattern 7: Gem stops whistle
     - [ ] Extend final chord
+    - [ ] Vertical build-up? Many opportunities? Can of worms?
 
 ### Pending
 
