@@ -107,7 +107,7 @@ Songs (and Tasks/Requirements)
     - [x] Pattern 4: Violin Full persistent chord may not match the 2nd chord. Ended other 2 notes there. Only kept base note and even increased volume there.
     - [x] Fix Whistle's buggy envelopes 
     - [ ] Pattern 7: Gem stops whistle
-    - [ ] Sax pronounced panbrello might not add to it.
+    - [ ] Finetuning Sax envelopes so it'll cut through the mix.
     - [ ] Extend final chord
     - [ ] Vertical build-up? Many opportunities? Can of worms?
 
