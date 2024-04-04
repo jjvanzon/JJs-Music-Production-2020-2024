@@ -106,8 +106,9 @@ Songs (and Tasks/Requirements)
     - [x] ~~Why are a stretch of violin legato channels all left channel in one case? For echo effect?~~ \> Yes
     - [x] Pattern 4: Violin Full persistent chord may not match the 2nd chord. Ended other 2 notes there. Only kept base note and even increased volume there.
     - [x] Fix Whistle's buggy envelopes 
-    - [ ] Pattern 7: Gem stops whistle
-    - [ ] Finetuning Sax envelopes so it'll cut through the mix.
+    - [x] Finetuning Sax envelopes so it'll cut through the mix.
+    - [x] Pattern 7: Gem stops whistle \> Earlier tweaking fixed it.
+    - [x] Gave Gem chord some stereo.
     - [ ] Extend final chord
     - [ ] Vertical build-up? Many opportunities? Can of worms?
 
