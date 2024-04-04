@@ -104,7 +104,7 @@ Songs (and Tasks/Requirements)
     - [x] 2nd repeat with synth lead, low string hung.
     - [x] 1 announcing chord was bairly audible.
     - [x] ~~Why are a stretch of violin legato channels all left channel in one case? For echo effect?~~ \> Yes
-    - [x] Pattern 4: Violin Full persistent chord's 2nd note may not match the 2nd chord. Muting it there.
+    - [x] Pattern 4: Violin Full persistent chord may not match the 2nd chord. Ended other 2 notes there. Only kept base note and even increased volume there.
     - [ ] Pattern 4: Whistle is weird (listen solo)
     - [ ] Pattern 7: Gem stops whistle
     - [ ] Extend final chord
