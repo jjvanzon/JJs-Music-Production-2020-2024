@@ -105,8 +105,9 @@ Songs (and Tasks/Requirements)
     - [x] 1 announcing chord was bairly audible.
     - [x] ~~Why are a stretch of violin legato channels all left channel in one case? For echo effect?~~ \> Yes
     - [x] Pattern 4: Violin Full persistent chord may not match the 2nd chord. Ended other 2 notes there. Only kept base note and even increased volume there.
-    - [ ] Pattern 4: Whistle is weird (listen solo)
+    - [x] Fix Whistle's buggy envelopes 
     - [ ] Pattern 7: Gem stops whistle
+    - [ ] Sax pronounced panbrello might not add to it.
     - [ ] Extend final chord
     - [ ] Vertical build-up? Many opportunities? Can of worms?
 
