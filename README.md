@@ -109,6 +109,7 @@ Songs (and Tasks/Requirements)
     - [x] Finetuning Sax envelopes so it'll cut through the mix.
     - [x] Pattern 7: Gem stops whistle \> Earlier tweaking fixed it.
     - [x] Gave Gem chord some stereo.
+    - [x] Drums: Disabling envelopes, continue upon new note.
     - [ ] Extend final chord
     - [ ] Vertical build-up? Many opportunities? Can of worms?
 
