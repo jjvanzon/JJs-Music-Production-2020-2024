@@ -110,8 +110,20 @@ Songs (and Tasks/Requirements)
     - [x] Pattern 7: Gem stops whistle \> Earlier tweaking fixed it.
     - [x] Gave Gem chord some stereo.
     - [x] Drums: Disabling envelopes, continue upon new note.
-    - [ ] Extend final chord
+    - [ ] .. Extend final chord
     - [ ] Vertical build-up? Many opportunities? Can of worms?
+        - [ ] Investigate nice combos of instrumentation
+            - [ ] Strings
+            - [ ] Strings + bass
+            - [ ] Strings + bass + metal
+            - [ ] Strings + bass echo + metal + hihat
+            - [ ] Strings + metal + whistle
+        - [ ] Build up
+        - [ ] Break down 1st part
+        - [ ] Build up 2nd part
+        - [ ] Break down 2nd part
+        - [ ] Do original sequence
+        - [ ] Break down some more
 
 ### Pending
 
