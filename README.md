@@ -124,6 +124,9 @@ Songs (and Tasks/Requirements)
         - [ ] Break down 2nd part
         - [ ] Do original sequence
         - [ ] Break down some more
+        - [ ] Sax + violins ?
+        - [ ] Do a pattern with chords just base notes or fifth interval?
+        - [ ] And less notes? (Horizontal build up / out-of-scope?)
 
 ### Pending
 
