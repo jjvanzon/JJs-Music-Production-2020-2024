@@ -200,6 +200,8 @@ TODO
     - [x] Fade out quicker
 - [x] Middle violins more dynamics > Only slight volume swing.
 - [x] Timing of the 1st announcing arpeggio chord.
+- [ ] ~ 2nd sax note's volume bothers me.
+- [ ] Fade out quicker ?
 - [ ] Vertical build-up?
     - [ ] I think maybe it is a lot of musical information in one blow.
     - [ ] But how to dose it better?
