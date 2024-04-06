@@ -95,40 +95,13 @@ Songs (and Tasks/Requirements)
 
 ### Fast Tracker
 
-- [ ] LUISTER2.XM
+- [ ] LUISTER.XM
     - [x] Partially replaced sax
-    - [x] Mixing
-    - [x] Cleaner envelopes
     - [x] Effect chords at announcing moments
-    - [x] Cymbal volume swing
-    - [x] 2nd repeat with synth lead, low string hung.
-    - [x] 1 announcing chord was bairly audible.
-    - [x] ~~Why are a stretch of violin legato channels all left channel in one case? For echo effect?~~ \> Yes
-    - [x] Pattern 4: Violin Full persistent chord may not match the 2nd chord. Ended other 2 notes there. Only kept base note and even increased volume there.
-    - [x] Fix Whistle's buggy envelopes 
-    - [x] Finetuning Sax envelopes so it'll cut through the mix.
-    - [x] Pattern 7: Gem stops whistle \> Earlier tweaking fixed it.
-    - [x] Gave Gem chord some stereo.
-    - [x] Drums: Disabling envelopes, continue upon new note.
-    - [ ] Revert Whistle envelope back to original minus error.
-    - [ ] .. Extend final chord
-        - [ ] Using part B's 'Legato Violin', which is actually a slow tremolo tremolo rhythm: looping and fading out?
-    - [ ] Vertical build-up? Many opportunities? Can of worms?
-        - [ ] Investigate nice combos of instrumentation
-            - [ ] Strings
-            - [ ] Strings + bass
-            - [ ] Strings + bass + metal
-            - [ ] Strings + bass echo + metal + hihat
-            - [ ] Strings + metal + whistle
-            - [ ] Sax + violins ?
-        - [ ] Build up
-        - [ ] Break down 1st part
-        - [ ] Build up 2nd part
-        - [ ] Break down 2nd part
-        - [ ] Do original sequence
-        - [ ] Break down some more
-        - [ ] Do a pattern with chords just base notes or fifth interval?
-        - [ ] And less notes? (Horizontal build up / out-of-scope?)
+    - [ ] .. Mixing
+    - [ ] .. Cleaner envelopes
+    - [ ] .. Fixing 'errors' / details.
+    - [ ] More vertical build-up?
 
 ### Pending
 
@@ -191,9 +164,37 @@ Links
 TODO
 ----
 
+### 2024-04-01 TODO Details Adapting Song "Luister.xm"
 
-### 2024-04-01 TODO Adapting Song "Luister.xm"
-
+- [x] Cymbal volume swing
+- [x] 2nd repeat with synth lead, low string hung.
+- [x] 1 announcing chord was bairly audible.
+- [x] ~~Why are a stretch of violin legato channels all left channel in one case? For echo effect?~~ \> Yes
+- [x] Pattern 4: Violin Full persistent chord may not match the 2nd chord. Ended other 2 notes there. Only kept base note and even increased volume there.
+- [x] Fix Whistle's buggy envelopes 
+- [x] Finetuning Sax envelopes so it'll cut through the mix.
+- [x] Pattern 7: Gem stops whistle \> Earlier tweaking fixed it.
+- [x] Gave Gem chord some stereo.
+- [x] Drums: Disabling envelopes, continue upon new note.
+- [ ] Revert Whistle envelope back to original minus error.
+- [ ] .. Extend final chord
+    - [ ] Using part B's 'Legato Violin', which is actually a slow tremolo tremolo rhythm: looping and fading out?
+- [ ] Vertical build-up?
+    - [ ] Investigate nice combos of instrumentation
+        - [ ] Strings
+        - [ ] Strings + bass
+        - [ ] Strings + bass + metal
+        - [ ] Strings + bass echo + metal + hihat
+        - [ ] Strings + metal + whistle
+        - [ ] Sax + violins ?
+    - [ ] Build up
+    - [ ] Break down 1st part
+    - [ ] Build up 2nd part
+    - [ ] Break down 2nd part
+    - [ ] Do original sequence
+    - [ ] Break down some more
+    - [ ] Do a pattern with chords just base notes or fifth interval?
+    - [ ] And less notes? (Horizontal build up / out-of-scope?)
 
 
 Postponed
