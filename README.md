@@ -110,6 +110,7 @@ Songs (and Tasks/Requirements)
     - [x] Pattern 7: Gem stops whistle \> Earlier tweaking fixed it.
     - [x] Gave Gem chord some stereo.
     - [x] Drums: Disabling envelopes, continue upon new note.
+    - [ ] Whistle envelope back to original minus error.
     - [ ] .. Extend final chord
     - [ ] Vertical build-up? Many opportunities? Can of worms?
         - [ ] Investigate nice combos of instrumentation
