@@ -192,11 +192,14 @@ TODO
 - [x] Drums: Disabling envelopes, continue upon new note.
 - [x] Revert Whistle envelope back to original minus error.
 - [x] Revert some more envelopes back, because it didn't make it sound better.
-- [ ] .. Extend final chord
-    - [ ] Using part B's 'Legato Violin', which is actually a slow tremolo tremolo rhythm: looping and fading out?
-- [ ] Middle violins more dynamics?
-- [ ] Time the arpeggios better?
-- [ ] Middle violin echo had panning set, that was later overwritten by 0.
+- [x] Extend final chord (using part B's 'Legato Violin', which is actually a slow tremolo tremolo rhythm: loop and fade it out.)
+- [x] Middle violin echo had panning set, that was later overwritten by 0. \> Yeah, that actually sounded more spacious.
+- [ ] End fade:
+    - [ ] Merge last chord with end fade somehow.
+    - [ ] Reorganize channels for that
+    - [ ] Fade oug quicker?
+- [ ] ~ Middle violins more dynamics?
+- [ ] ~ Time the arpeggios better?
 - [ ] Vertical build-up?
     - [ ] I think maybe it is a lot of musical information in one blow.
     - [ ] But how to dose it better?
