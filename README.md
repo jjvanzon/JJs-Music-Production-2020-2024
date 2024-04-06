@@ -6,6 +6,19 @@ Introduction
 
 I have some other songs in mind that might be releasable, though perhaps more difficult to get recorded.
 
+Rules
+-----
+
+'Rules' pimping Tracker songs from the 90's:
+
+- No new material.
+- Reuse and transform existing musical information.
+- Use former sample library.
+
+That way I feel I respect what it was,  
+will limit how far I go,  
+and can be pragmatic finishing up work.
+
 
 Steps Roughly
 -------------
@@ -100,8 +113,9 @@ Songs (and Tasks/Requirements)
     - [x] Effect chords at announcing moments
     - [ ] .. Mixing
     - [ ] .. Cleaner envelopes
-    - [ ] .. Fixing 'errors' / details.
+    - [ ] .. Fixing 'errors' / details
     - [ ] More vertical build-up?
+    - [ ] More horizontal build-up?
 
 ### Pending
 
@@ -177,8 +191,11 @@ TODO
 - [x] Gave Gem chord some stereo.
 - [x] Drums: Disabling envelopes, continue upon new note.
 - [x] Revert Whistle envelope back to original minus error.
+- [x] Revert some more envelopes back, because it didn't make it sound better.
 - [ ] .. Extend final chord
     - [ ] Using part B's 'Legato Violin', which is actually a slow tremolo tremolo rhythm: looping and fading out?
+- [ ] Middle violins more dynamics?
+- [ ] Time the arpeggios better?
 - [ ] Vertical build-up?
     - [ ] I think maybe it is a lot of musical information in one blow.
     - [ ] But how to dose it better?
@@ -190,13 +207,13 @@ TODO
         - [ ] Strings + metal + whistle
         - [ ] Sax + violins ?
     - [ ] Build up
+    - [ ] Do a pattern with chords just base notes or fifth interval?
+    - [ ] And less notes? (Horizontal build up / out-of-scope?)
     - [ ] Break down 1st part
     - [ ] Build up 2nd part
     - [ ] Break down 2nd part
     - [ ] Do original sequence
     - [ ] Break down some more
-    - [ ] Do a pattern with chords just base notes or fifth interval?
-    - [ ] And less notes? (Horizontal build up / out-of-scope?)
 
 
 Postponed
