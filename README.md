@@ -197,7 +197,7 @@ TODO
 - [ ] End fade:
     - [ ] Merge last chord with end fade somehow.
     - [ ] Reorganize channels for that?
-    - [ ] Fade out quicker?
+    - [x] Fade out quicker
 - [ ] ~ Middle violins more dynamics?
 - [ ] ~ Time the arpeggios better?
 - [ ] Vertical build-up?
