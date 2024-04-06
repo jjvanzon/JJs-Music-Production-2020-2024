@@ -196,6 +196,7 @@ TODO
     - [ ] Using part B's 'Legato Violin', which is actually a slow tremolo tremolo rhythm: looping and fading out?
 - [ ] Middle violins more dynamics?
 - [ ] Time the arpeggios better?
+- [ ] Middle violin echo had panning set, that was later overwritten by 0.
 - [ ] Vertical build-up?
     - [ ] I think maybe it is a lot of musical information in one blow.
     - [ ] But how to dose it better?
