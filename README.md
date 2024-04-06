@@ -199,7 +199,7 @@ TODO
     - [x] Use more channels for that.
     - [x] Fade out quicker
 - [x] Middle violins more dynamics > Only slight volume swing.
-- [ ] ~ Time the arpeggios better?
+- [x] Timing of the 1st announcing arpeggio chord.
 - [ ] Vertical build-up?
     - [ ] I think maybe it is a lot of musical information in one blow.
     - [ ] But how to dose it better?
