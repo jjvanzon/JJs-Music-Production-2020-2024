@@ -196,8 +196,8 @@ TODO
 - [x] Middle violin echo had panning set, that was later overwritten by 0. \> Yeah, that actually sounded more spacious.
 - [ ] End fade:
     - [ ] Merge last chord with end fade somehow.
-    - [ ] Reorganize channels for that
-    - [ ] Fade oug quicker?
+    - [ ] Reorganize channels for that?
+    - [ ] Fade out quicker?
 - [ ] ~ Middle violins more dynamics?
 - [ ] ~ Time the arpeggios better?
 - [ ] Vertical build-up?
