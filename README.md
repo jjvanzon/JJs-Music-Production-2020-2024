@@ -7,8 +7,8 @@ Introduction
 I have some other songs in mind that might be releasable, though perhaps more difficult to get recorded.
 
 
-Steps
------
+Steps Roughly
+-------------
 
 - [ ] Song listening/selection
     - [x] XM tracker songs inspected
@@ -110,8 +110,9 @@ Songs (and Tasks/Requirements)
     - [x] Pattern 7: Gem stops whistle \> Earlier tweaking fixed it.
     - [x] Gave Gem chord some stereo.
     - [x] Drums: Disabling envelopes, continue upon new note.
-    - [ ] Whistle envelope back to original minus error.
+    - [ ] Revert Whistle envelope back to original minus error.
     - [ ] .. Extend final chord
+        - [ ] Using part B's 'Legato Violin', which is actually a slow tremolo tremolo rhythm: looping and fading out?
     - [ ] Vertical build-up? Many opportunities? Can of worms?
         - [ ] Investigate nice combos of instrumentation
             - [ ] Strings
@@ -119,13 +120,13 @@ Songs (and Tasks/Requirements)
             - [ ] Strings + bass + metal
             - [ ] Strings + bass echo + metal + hihat
             - [ ] Strings + metal + whistle
+            - [ ] Sax + violins ?
         - [ ] Build up
         - [ ] Break down 1st part
         - [ ] Build up 2nd part
         - [ ] Break down 2nd part
         - [ ] Do original sequence
         - [ ] Break down some more
-        - [ ] Sax + violins ?
         - [ ] Do a pattern with chords just base notes or fifth interval?
         - [ ] And less notes? (Horizontal build up / out-of-scope?)
 
@@ -169,13 +170,15 @@ Techniques Used
 
 - VLC Media Player
 - FastTracker 2 (.XM files)
+- Impulse tracker
+- Schism Tracker
 - Logic Audio
 - Cubase
 - MiniDisk
 - Casette tape?
 - Sound Blaster 64
 - Windows 98?
-- 1st Pentium PC?
+- Pentium 90 PC?
 
 
 Links
@@ -188,21 +191,9 @@ Links
 TODO
 ----
 
-### 2020-11-25 TODO Adapting Song "Sad Organ Shorter Version"
 
-- [x] Volume maximization. Factor = 3.79
-- [x] Experimenting with pitch shift and mix to see if harsher tones might be relieved.
-- [ ] It is my opinion that it might not be due to the lack of harmonics, but perhaps some volume curves might be more effective.
+### 2024-04-01 TODO Adapting Song "Luister.xm"
 
-### 2020-09-08 TODO Adapting Song "Luister.xm"
-
-- [ ] Perhaps record the original song file to wav/raw?
-- [ ] Perhaps change saxophone to oboe or horn
-- [ ] Perhaps just in some sections.
-- [ ] Difficulty navigating/playing samples.
-- [ ] Impulse Tracker seems to list max 650 sample files instead of around 2000.
-- [x] Google Drive is not happy with my accidental folder move or something.
-- [ ] Might split up sample files into a folder a letter. (Rigorous categorization might go a tad far for now.)
 
 
 Postponed
@@ -210,14 +201,17 @@ Postponed
 
 ### 2020-09-17 Postponed Organizing Samples
 
-- [ ] Deduplicating samples?
+- [x] Deduplicating samples?
+- [x] Sharing sample library on GitHub?
+- [ ] See that Git repo for more detsils.
 - [ ] Systematic check of sub-categories' contents?
-- [ ] Sharing sample library on GitHub?
 
-### 2020-09-08 Postponed FastTracker 2 Orientation
 
-- [ ] I think I found a disk recording option.
+### 2020-11-25 Postponed Adapting Song "Sad Organ Shorter Version"
 
+- [x] Volume maximization. Factor = 3.79
+- [x] Experimenting with pitch shift and mix to see if harsher tones might be relieved.
+- [ ] It is my opinion that it might not be due to the lack of harmonics, but perhaps some volume curves might be more effective.
 
 Done
 ----
@@ -259,6 +253,17 @@ Salvage them all either way?
 - [x] Downloaded FastTracker
 - [x] Configure and orient.
 - [x] It does not seem stereo.
+- [x] I think I found a disk recording option.
+- [x] Using Impulse Tracker / Schism Tracker for .XM files is also an option.
+
+### 2020-09-08 Done Adapting Song "Luister.xm"
+
+- [x] Perhaps change saxophone to oboe or horn
+- [x] Perhaps just in some sections.
+- [x] Difficulty navigating/playing samples. \> Sample library partly reorganized now.
+- [x] Impulse Tracker seems to list max 650 sample files instead of around 2000.
+- [x] Google Drive is not happy with my accidental folder move or something.
+- [x] ~~Might split up sample files into a folder a letter. (Rigorous categorization might go a tad far for now.)~~
 
 ### 2020-09-20 Done Categorizing Samples Based on Sound and then Name Pattern
 
@@ -330,3 +335,4 @@ I would like to change the folder structure of the samples, because DosBox/Impul
 ### 2020-11-25 Done Adapting Song "Blues Piano 2"
 
 - [x] Maximizing volume. Coefficient = 2.38
+
