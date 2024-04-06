@@ -176,10 +176,12 @@ TODO
 - [x] Pattern 7: Gem stops whistle \> Earlier tweaking fixed it.
 - [x] Gave Gem chord some stereo.
 - [x] Drums: Disabling envelopes, continue upon new note.
-- [ ] Revert Whistle envelope back to original minus error.
+- [x] Revert Whistle envelope back to original minus error.
 - [ ] .. Extend final chord
     - [ ] Using part B's 'Legato Violin', which is actually a slow tremolo tremolo rhythm: looping and fading out?
 - [ ] Vertical build-up?
+    - [ ] I think maybe it is a lot of musical information in one blow.
+    - [ ] But how to dose it better?
     - [ ] Investigate nice combos of instrumentation
         - [ ] Strings
         - [ ] Strings + bass
