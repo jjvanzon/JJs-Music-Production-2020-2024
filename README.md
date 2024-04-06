@@ -194,11 +194,11 @@ TODO
 - [x] Revert some more envelopes back, because it didn't make it sound better.
 - [x] Extend final chord (using part B's 'Legato Violin', which is actually a slow tremolo tremolo rhythm: loop and fade it out.)
 - [x] Middle violin echo had panning set, that was later overwritten by 0. \> Yeah, that actually sounded more spacious.
-- [ ] End fade:
-    - [ ] Merge last chord with end fade somehow.
-    - [ ] Reorganize channels for that?
+- [x] End fade:
+    - [x] Merge last chord with end fade somehow.
+    - [x] Use more channels for that.
     - [x] Fade out quicker
-- [ ] ~ Middle violins more dynamics?
+- [x] Middle violins more dynamics > Only slight volume swing.
 - [ ] ~ Time the arpeggios better?
 - [ ] Vertical build-up?
     - [ ] I think maybe it is a lot of musical information in one blow.
