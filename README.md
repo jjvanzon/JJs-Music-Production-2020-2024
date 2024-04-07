@@ -111,9 +111,9 @@ Songs (and Tasks/Requirements)
 - [ ] LUISTER.XM
     - [x] Partially replaced sax
     - [x] Effect chords at announcing moments
-    - [ ] .. Mixing
-    - [ ] .. Cleaner envelopes
-    - [ ] .. Fixing 'errors' / details
+    - [x] Mixing
+    - [x] Cleaner envelopes
+    - [x] Fixing 'errors' / details
     - [ ] More vertical build-up?
     - [ ] More horizontal build-up?
 
@@ -229,7 +229,7 @@ Postponed
 
 - [x] Deduplicating samples?
 - [x] Sharing sample library on GitHub?
-- [ ] See that Git repo for more detsils.
+- [ ] See that Git repo for more details.
 - [ ] Systematic check of sub-categories' contents?
 
 
