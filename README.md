@@ -200,30 +200,32 @@ TODO
     - [x] Fade out quicker
 - [x] Middle violins more dynamics > Only slight volume swing.
 - [x] Timing of the 1st announcing arpeggio chord.
+- [x] Fade out quicker and richer.
 - [ ] ~ 2nd sax note's volume bothers me.
-- [ ] Fade out quicker ?
-- [ ] Vertical build-up?
-    - [ ] I think maybe it is a lot of musical information in one blow.
-    - [ ] But how to dose it better?
-    - [ ] Investigate nice combos of instrumentation
-        - [ ] Strings
-        - [ ] Strings + bass
-        - [ ] Strings + bass + metal
-        - [ ] Strings + bass echo + metal + hihat
-        - [ ] Strings + metal + whistle
-        - [ ] Sax + violins ?
-    - [ ] Build up
-    - [ ] Do a pattern with chords just base notes or fifth interval?
-    - [ ] And less notes? (Horizontal build up / out-of-scope?)
-    - [ ] Break down 1st part
-    - [ ] Build up 2nd part
-    - [ ] Break down 2nd part
-    - [ ] Do original sequence
-    - [ ] Break down some more
 
 
 Postponed
 ---------
+
+### 2024-04-07 ~ Postponed Luister Song: Vertical Build-Up
+
+- [ ] I think maybe it is a lot of musical information in one blow.
+- [ ] But how to dose it better?
+- [ ] Investigate nice combos of instrumentation
+    - [ ] Strings
+    - [ ] Strings + bass
+    - [ ] Strings + bass + metal
+    - [ ] Strings + bass echo + metal + hihat
+    - [ ] Strings + metal + whistle
+    - [ ] Sax + violins ?
+- [ ] Build up
+- [ ] Do a pattern with chords just base notes or fifth interval?
+- [ ] And less notes? (Horizontal build up / out-of-scope?)
+- [ ] Break down 1st part
+- [ ] Build up 2nd part
+- [ ] Break down 2nd part
+- [ ] Do original sequence
+- [ ] Break down some more
 
 ### 2020-09-17 Postponed Organizing Samples
 
