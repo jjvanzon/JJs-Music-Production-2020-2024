@@ -114,6 +114,7 @@ Songs (and Tasks/Requirements)
     - [x] Mixing
     - [x] Cleaner envelopes
     - [x] Fixing 'errors' / details
+    - [x] Fade-out
     - [ ] More vertical build-up?
     - [ ] More horizontal build-up?
 
@@ -178,31 +179,7 @@ Links
 TODO
 ----
 
-### 2024-04-01 TODO Details Adapting Song "Luister.xm"
-
-- [x] Cymbal volume swing
-- [x] 2nd repeat with synth lead, low string hung.
-- [x] 1 announcing chord was bairly audible.
-- [x] ~~Why are a stretch of violin legato channels all left channel in one case? For echo effect?~~ \> Yes
-- [x] Pattern 4: Violin Full persistent chord may not match the 2nd chord. Ended other 2 notes there. Only kept base note and even increased volume there.
-- [x] Fix Whistle's buggy envelopes 
-- [x] Finetuning Sax envelopes so it'll cut through the mix.
-- [x] Pattern 7: Gem stops whistle \> Earlier tweaking fixed it.
-- [x] Gave Gem chord some stereo.
-- [x] Drums: Disabling envelopes, continue upon new note.
-- [x] Revert Whistle envelope back to original minus error.
-- [x] Revert some more envelopes back, because it didn't make it sound better.
-- [x] Extend final chord (using part B's 'Legato Violin', which is actually a slow tremolo tremolo rhythm: loop and fade it out.)
-- [x] Middle violin echo had panning set, that was later overwritten by 0. \> Yeah, that actually sounded more spacious.
-- [x] End fade:
-    - [x] Merge last chord with end fade somehow.
-    - [x] Use more channels for that.
-    - [x] Fade out quicker
-- [x] Middle violins more dynamics > Only slight volume swing.
-- [x] Timing of the 1st announcing arpeggio chord.
-- [x] Fade out quicker and richer.
-- [ ] ~ 2nd sax note's volume bothers me.
-
+...
 
 Postponed
 ---------
@@ -363,4 +340,29 @@ I would like to change the folder structure of the samples, because DosBox/Impul
 ### 2020-11-25 Done Adapting Song "Blues Piano 2"
 
 - [x] Maximizing volume. Coefficient = 2.38
+
+### 2024-04-01 Done Details Adapting Song "Luister.xm"
+
+- [x] Cymbal volume swing
+- [x] 2nd repeat with synth lead, low string hung.
+- [x] 1 announcing chord was bairly audible.
+- [x] ~~Why are a stretch of violin legato channels all left channel in one case? For echo effect?~~ \> Yes
+- [x] Pattern 4: Violin Full persistent chord may not match the 2nd chord. Ended other 2 notes there. Only kept base note and even increased volume there.
+- [x] Fix Whistle's buggy envelopes 
+- [x] Finetuning Sax envelopes so it'll cut through the mix.
+- [x] Pattern 7: Gem stops whistle \> Earlier tweaking fixed it.
+- [x] Gave Gem chord some stereo.
+- [x] Drums: Disabling envelopes, continue upon new note.
+- [x] Revert Whistle envelope back to original minus error.
+- [x] Revert some more envelopes back, because it didn't make it sound better.
+- [x] Extend final chord (using part B's 'Legato Violin', which is actually a slow tremolo tremolo rhythm: loop and fade it out.)
+- [x] Middle violin echo had panning set, that was later overwritten by 0. \> Yeah, that actually sounded more spacious.
+- [x] End fade:
+    - [x] Merge last chord with end fade somehow.
+    - [x] Use more channels for that.
+    - [x] Fade out quicker
+- [x] Middle violins more dynamics > Only slight volume swing.
+- [x] Timing of the 1st announcing arpeggio chord.
+- [x] Fade out quicker and richer.
+- [x] ~~2nd sax note's volume bothers me.~~ \> Omit against perfectionism
 
