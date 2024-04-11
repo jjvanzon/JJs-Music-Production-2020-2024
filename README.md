@@ -6,6 +6,7 @@ Introduction
 
 I have some other songs in mind that might be releasable, though perhaps more difficult to get recorded.
 
+
 Rules
 -----
 
@@ -18,6 +19,30 @@ Rules
 That way I feel I respect what it was,  
 will limit how far I go,  
 and can be pragmatic finishing up work.
+
+
+Techniques Used
+---------------
+
+- VLC Media Player
+- FastTracker 2 (.XM files)
+- Impulse Tracker
+- Schism Tracker
+- Logic Audio
+- Cubase
+- MiniDisk
+- Casette tape?
+- Sound Blaster 64
+- Windows 98?
+- Pentium 90 PC?
+- DosBox
+
+
+Links
+-----
+
+- Full text of "Impulse Tracker II User Manual":
+    - https://archive.org/stream/ImpulseTrackerIIUserManual/Impulse%20Tracker%20II%20User%20Manual_djvu.txt
 
 
 Steps Roughly
@@ -38,30 +63,8 @@ Steps Roughly
     - [x] Finding out how to record XM songs.
     - [x] Finding a way to record MiniDisk content to PC.
     - [ ] Try finding tape cassettes in attic.
-- [ ] __Organizing samples__
+- [ ] .. Organizing samples
 - [ ] Volume maximization
-
-
-Techniques Used
----------------
-
-- VLC Media Player
-- FastTracker 2 (.XM files)
-- Impulse tracker
-- Schism Tracker
-- Logic Audio
-- Cubase
-- MiniDisk
-- Casette tape?
-- Sound Blaster 64
-- Windows 98?
-- Pentium 90 PC?
-
-Links
------
-
-- Full text of "Impulse Tracker II User Manual":
-    - https://archive.org/stream/ImpulseTrackerIIUserManual/Impulse%20Tracker%20II%20User%20Manual_djvu.txt
 
 
 Songs / Tasks / Requirements
@@ -117,8 +120,11 @@ Songs / Tasks / Requirements
     - [x] Cleaner envelopes
     - [x] Fixing 'errors' / details
     - [x] Fade-out
+    - [x] End-fade simpler slow tremolo violin notes 
     - [ ] Tame the crash
     - [ ] Vertical build-up
+    - [ ] Synth melody more expression
+    - [ ] Certain violin chords more dynamics
     - [ ] More horizontal build-up?
 - [ ] EXAM2.IT: "Rock"
     - [x] It seems there are 2 variations.
