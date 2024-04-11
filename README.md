@@ -42,71 +42,73 @@ Steps Roughly
 - [ ] Volume maximization
 
 
-Songs (and Tasks/Requirements)
-------------------------------
+Techniques Used
+---------------
 
-14 songs selected in total.
+- VLC Media Player
+- FastTracker 2 (.XM files)
+- Impulse tracker
+- Schism Tracker
+- Logic Audio
+- Cubase
+- MiniDisk
+- Casette tape?
+- Sound Blaster 64
+- Windows 98?
+- Pentium 90 PC?
+
+Links
+-----
+
+- Full text of "Impulse Tracker II User Manual":
+    - https://archive.org/stream/ImpulseTrackerIIUserManual/Impulse%20Tracker%20II%20User%20Manual_djvu.txt
+
+
+Songs / Tasks / Requirements
+----------------------------
 
 ### MiniDisk
 
 - [x] Not My Favorite Wave Table Song
-    - But some one else might like it.
-    - MiniDisk song __6__
-    - 'Blue' CD song 2
-    - Wave table song.
+    - [ ] But some one else might like it.
+    - [ ] MiniDisk song __6__
+    - [ ] 'Blue' CD song 2
+    - [ ] Wave table song.
 - [ ] Oboes
-    - Classic-ish
-    - MiniDisk song __7__
+    - [ ] Classic-ish
+    - [ ] MiniDisk song __7__
     - [ ] Add some some repetition?
 - [x] Blues Piano 1
-    - Me on piano + wave table
-    - MiniDisk song __14__
-    - Not my favorite. May include anyway.
+    - [ ] Me on piano + wave table
+    - [ ] MiniDisk song __14__
+    - [ ] Not my favorite. May include anyway.
     - [ ] High amplification factor. Might re-record.
 - [ ] Short But Sweet
-    - MiniDisk song __15__
+    - [ ] MiniDisk song __15__
     - [ ] Make 2x longer?
 - [x] Blues Piano 2
-    - Me on piano + wave table
-    - MiniDisk song __16__
+    - [ ] Me on piano + wave table
+    - [ ] MiniDisk song __16__
     - [ ] High amplification factor. Might re-record.
 - [ ] 'Ashtray Song'
-    - Sound scape
-    - MiniDisk song __19__
+    - [ ] Sound scape
+    - [ ] MiniDisk song __19__
     - [ ] Has sharp tones. Remedied perhaps if mixed with effect-free version.
 - [ ] Sad Organ
-    - Counterpoint composition
-    - Made using Logic Audio sequencer and Sound Blaster 64 wave table
+    - [ ] Counterpoint composition
+    - [ ] Made using Logic Audio sequencer and Sound Blaster 64 wave table
     - [ ] MiniDisk song __20__ = shorter
     - [ ] MiniDisk song __22__ + __23__ + __24__ = longer version, in parts for some reason, ends with theme. A bit long.
-    - Perhaps publish do both.
+    - [ ] Perhaps publish do both.
     - [ ] High amplification factor. Might re-record.
     - [ ] Tones seem harsh. Perhaps effect creating more harmonics. Exciter effect?
     - [ ] Perhaps make give longer notes a volume envelope for subtlety vs harshness.
 - [ ] Funky Counterpoint
-    - MiniDisk song __21__
-    - Nicer sort of funky counterpoint.
+    - [ ] MiniDisk song __21__
+    - [ ] Nicer sort of funky counterpoint.
     - [ ] Make 2x longer?
 
-### Impulse Tracker
-
-- [ ] 'Rock' tracker song
-    - [x] It seems there are 2 variations.
-    - [x] May use EXAM2.IT but slower
-    - [ ] Take some inspiration from ROKZAWEL.IT ?
-    - [ ] Echo at the end ?
-- [ ] Zielig.IT
-    - [ ] Make longer?
-- [ ] Realgene.s3m
-    - [ ] With some changes?
-- [ ] Oldm007r.IT
-    - "The CD 2005" track 22?
-    - Composition-wise not special, sounds might make up for it?
-- [ ] Tryout7.IT
-    - "The CD 2005" track 27
-    - Not superb, but good enough?
-
-### Fast Tracker
+### Tracker Music
 
 - [ ] LUISTER.XM
     - [x] Partially replaced sax
@@ -115,8 +117,44 @@ Songs (and Tasks/Requirements)
     - [x] Cleaner envelopes
     - [x] Fixing 'errors' / details
     - [x] Fade-out
-    - [ ] More vertical build-up?
+    - [ ] Tame the crash
+    - [ ] Vertical build-up
     - [ ] More horizontal build-up?
+- [ ] EXAM2.IT: "Rock"
+    - [x] It seems there are 2 variations.
+    - [x] May use EXAM2.IT but slower
+    - [ ] Take some inspiration from ROKZAWEL.IT ?
+    - [ ] Echo at the end ?
+- [ ] BUSSEL2.IT / "I Like This" (re-edit)
+    - [x] Different tempo
+- [ ] NOSTGOO2.IT / "Nostalgia" (re-edit)
+    - [x] Different tempo
+    - [ ] Stereo opportunities
+    - [ ] Drums more volume changes
+    - [ ] Lead instruments volume sliding
+    - [ ] Better instrument names
+- [ ] O08V2.IT (re-edit)
+    - [x] Different tempo
+    - [ ] Drums more volume changes
+    - [ ] Oboe panning envelope
+    - [ ] Middle piece violins more stereo
+- [ ] Oldm001.IT / "Words Unspoken"
+    - [ ] .. Change lead instrument
+    - [ ] More stereo
+    - [ ] Sample names
+    - [ ] Borrow sounds with more depth from other songs
+    - [ ] Oboe 3rd part more volume expression
+    - [ ] Some basses missing in 3rd part
+- [ ] Oldm007r.IT
+    - [ ] "The CD 2005" track 22?
+    - [ ] Composition-wise not special, sounds might make up for it?
+- [ ] Zielig.IT
+    - [ ] Make longer?
+- [ ] Realgene.s3m
+    - [ ] With some changes?
+- [ ] Tryout7.IT
+    - [ ] "The CD 2005" track 27
+    - [ ] Not superb, but good enough?
 
 ### Pending
 
@@ -151,29 +189,6 @@ Some songs I like less, and might be more laborious to make better.
     - Note 'la' sound might need to be replaced due to 'copyright' concerns.
 - Steam.s3m:
     - Might be nice composition-wise, but perhaps might do better with better sounds.
-
-
-Techniques Used
----------------
-
-- VLC Media Player
-- FastTracker 2 (.XM files)
-- Impulse tracker
-- Schism Tracker
-- Logic Audio
-- Cubase
-- MiniDisk
-- Casette tape?
-- Sound Blaster 64
-- Windows 98?
-- Pentium 90 PC?
-
-
-Links
------
-
-- Full text of "Impulse Tracker II User Manual":
-    - https://archive.org/stream/ImpulseTrackerIIUserManual/Impulse%20Tracker%20II%20User%20Manual_djvu.txt
 
 
 TODO
