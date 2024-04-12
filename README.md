@@ -219,11 +219,12 @@ Postponed
     - [ ] ~ Strings + bass echo + metal + hihat
     - [ ] Strings + metal + whistle
     - [ ] Sax + violins ?
-- [x] Build up 1st part
+- [x] Build up 1st part tonal parts
+- [ ] Build up 1st part drums
 - [ ] ~ Break down 1st part
-- [ ] Build up 2nd part
-- [ ] Break down 2nd part
-- [ ] Do original sequence
+- [ ] ~ Build up 2nd part
+- [ ] ~ Break down 2nd part
+- [x] Do original sequence
 - [ ] Break down some more
 
 ### 2024-04-12 Postponed Luister Song: Horizontal Build Up
