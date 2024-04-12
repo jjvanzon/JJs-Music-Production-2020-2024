@@ -212,9 +212,10 @@ Postponed
 - [ ] Investigate nice combos of instrumentation
     - [x] Strings
     - [x] Strings + bass
-    - [ ] Strings + bass + metal
-    - [x] Strings + bass echo + metal + hihat
-    - [ ] .. Strings + metal + whistle
+    - [x] Strings + bass + metal
+    - [ ] Strings + bass echo + metal + hihat
+    - [ ] Strings + metal + whistle
+    - [x] Strings + metal + whistle + bass
     - [ ] Sax + violins ?
 - [ ] Build up
 - [ ] Do a pattern with chords just base notes or fifth interval?
