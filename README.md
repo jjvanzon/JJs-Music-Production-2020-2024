@@ -226,6 +226,8 @@ Postponed
 - [ ] ~ Break down 2nd part
 - [x] Do original sequence
 - [ ] Break down some more
+- [ ] Drum pitches consistent
+- [ ] 
 
 ### 2024-04-12 Postponed Luister Song: Horizontal Build Up
 
