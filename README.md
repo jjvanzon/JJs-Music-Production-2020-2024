@@ -210,12 +210,14 @@ Postponed
 - [ ] I think maybe it is a lot of musical information in one blow.
 - [ ] But how to dose it better?
 - [ ] Investigate nice combos of instrumentation
-    - [x] x Strings
-    - [x] x Strings + bass
-    - [x] x Strings + bass + metal
+    - [x] Strings
+    - [x] Strings + bass
+    - [x] Strings + bass + metal
+    - [x] Strings + bass + whistle
+    - [x] Strings + bass + synth
+    - [x] Strings + metal + whistle + bass
     - [ ] Strings + bass echo + metal + hihat
     - [ ] Strings + metal + whistle
-    - [x] Strings + metal + whistle + bass
     - [ ] Sax + violins ?
 - [ ] Build up
 - [ ] Do a pattern with chords just base notes or fifth interval?
