@@ -216,17 +216,20 @@ Postponed
     - [x] Strings + bass + whistle
     - [x] Strings + bass + synth
     - [x] Strings + metal + whistle + bass
-    - [ ] Strings + bass echo + metal + hihat
+    - [ ] ~ Strings + bass echo + metal + hihat
     - [ ] Strings + metal + whistle
     - [ ] Sax + violins ?
-- [ ] Build up
-- [ ] Do a pattern with chords just base notes or fifth interval?
-- [ ] And less notes? (Horizontal build up / out-of-scope?)
-- [ ] Break down 1st part
+- [x] Build up 1st part
+- [ ] ~ Break down 1st part
 - [ ] Build up 2nd part
 - [ ] Break down 2nd part
 - [ ] Do original sequence
 - [ ] Break down some more
+
+### 2024-04-12 Postponed Luister Song: Horizontal Build Up
+
+- [ ] ~ Do a pattern with chords just base notes or fifth interval?
+- [ ] ~ And less notes? (Horizontal build up / out-of-scope?)
 
 ### 2020-09-17 Postponed Organizing Samples
 
