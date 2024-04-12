@@ -121,11 +121,11 @@ Songs / Tasks / Requirements
     - [x] Fixing 'errors' / details
     - [x] Fade-out
     - [x] End-fade simpler slow tremolo violin notes 
-    - [ ] Tame the crash
     - [ ] Vertical build-up
     - [ ] Synth melody more expression
-    - [ ] Certain violin chords more dynamics
-    - [ ] More horizontal build-up?
+    - [ ] Violin chords more dynamics \> After lead synth expression
+    - [ ] ~ Tame the crash
+    - [ ] ~ More horizontal build-up
 - [ ] EXAM2.IT: "Rock"
     - [x] It seems there are 2 variations.
     - [x] May use EXAM2.IT but slower
@@ -210,11 +210,11 @@ Postponed
 - [ ] I think maybe it is a lot of musical information in one blow.
 - [ ] But how to dose it better?
 - [ ] Investigate nice combos of instrumentation
-    - [ ] Strings
-    - [ ] Strings + bass
+    - [x] Strings
+    - [x] Strings + bass
     - [ ] Strings + bass + metal
-    - [ ] Strings + bass echo + metal + hihat
-    - [ ] Strings + metal + whistle
+    - [x] Strings + bass echo + metal + hihat
+    - [ ] .. Strings + metal + whistle
     - [ ] Sax + violins ?
 - [ ] Build up
 - [ ] Do a pattern with chords just base notes or fifth interval?
