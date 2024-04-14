@@ -121,11 +121,11 @@ Songs / Tasks / Requirements
     - [x] Fixing 'errors' / details
     - [x] Fade-out
     - [x] End-fade simpler slow tremolo violin notes 
-    - [ ] Vertical build-up
+    - [ ] __Vertical build-up__
+    - [ ] __Some horizontal build-up__
     - [ ] Synth melody more expression
     - [ ] Violin chords more dynamics \> After lead synth expression
     - [ ] ~ Tame the crash
-    - [ ] ~ More horizontal build-up
 - [ ] EXAM2.IT: "Rock"
     - [x] It seems there are 2 variations.
     - [x] May use EXAM2.IT but slower
@@ -220,14 +220,13 @@ Postponed
     - [ ] Strings + metal + whistle
     - [ ] Sax + violins ?
 - [x] Build up 1st part tonal parts
-- [ ] Build up 1st part drums
-- [ ] ~ Break down 1st part
-- [ ] ~ Build up 2nd part
-- [ ] ~ Break down 2nd part
-- [x] Do original sequence
-- [ ] Break down some more
-- [ ] Drum pitches consistent
-- [ ] 
+- [x] Build up 1st part drums
+- [x] Forget about having the entire synth melody at the beginning.
+- [ ] Merge announcing part (pattern 9) with drum build-up (pattern 20)
+- [ ] Quietly build up 2nd part
+- [ ] Do original sequence
+- [ ] Break down
+- [ ] Make drum pitches consistent
 
 ### 2024-04-12 Postponed Luister Song: Horizontal Build Up
 
