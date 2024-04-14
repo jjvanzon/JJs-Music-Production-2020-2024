@@ -222,7 +222,7 @@ TODO
     - [x] Quietly build up 2nd part
     - [x] Transition to original sequence
     - [x] Do original sequence
-    - [ ] Break down
+    - [ ] __Break down__
 - [ ] Details:
     - [x] Violin intro: shorter
     - [x] Violin intro: off-beat 2nd half
@@ -233,6 +233,7 @@ TODO
     - [ ] Remove 2nd crash at end of patterns
     - [ ] Make drum pitches consistent
     - [ ] High metal chords a whole note off?
+    - [ ] Echo violin (slow tremolo) accidentally all same volume?
 
 ### 2024-04-14 TODO Luister Song: Expression
 
@@ -240,11 +241,6 @@ TODO
 
 Postponed
 ---------
-
-### 2024-04-12 Postponed Luister Song: Horizontal Build Up
-
-- [ ] ~ Do a pattern with chords just base notes or fifth interval?
-- [ ] ~ And less notes? (Horizontal build up / out-of-scope?)
 
 ### 2020-09-17 Postponed Organizing Samples
 
@@ -408,3 +404,7 @@ I would like to change the folder structure of the samples, because DosBox/Impul
 - [x] Fade out quicker and richer.
 - [x] ~~2nd sax note's volume bothers me.~~ \> Omit against perfectionism
 
+### 2024-04-12 Done Luister Song: Horizontal Build Up
+
+- [x] Do a pattern with chords just base notes or fifth interval?
+- [x] And less notes? (Horizontal build up / out-of-scope?)
