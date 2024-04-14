@@ -220,7 +220,8 @@ TODO
     - [x] Forget about having the entire synth melody at the beginning.
     - [x] ~~Merge announcing part (pattern 9) with drum build-up (pattern 20)~~ \> Would only add announcing chord.
     - [x] Quietly build up 2nd part
-    - [ ] .. Do original sequence
+    - [x] Transition to original sequence
+    - [x] Do original sequence
     - [ ] Break down
 - [ ] Details:
     - [x] Violin intro: shorter
