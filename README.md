@@ -200,12 +200,7 @@ Some songs I like less, and might be more laborious to make better.
 TODO
 ----
 
-...
-
-Postponed
----------
-
-### 2024-04-07 ~ Postponed Luister Song: Vertical Build-Up
+### 2024-04-07 TODO Luister Song: Vertical Build-Up
 
 - [ ] I think maybe it is a lot of musical information in one blow.
 - [ ] But how to dose it better?
@@ -222,11 +217,20 @@ Postponed
 - [x] Build up 1st part tonal parts
 - [x] Build up 1st part drums
 - [x] Forget about having the entire synth melody at the beginning.
-- [ ] Merge announcing part (pattern 9) with drum build-up (pattern 20)
+- [x] ~~Merge announcing part (pattern 9) with drum build-up (pattern 20)~~ \> Would only add announcing chord.
 - [ ] Quietly build up 2nd part
 - [ ] Do original sequence
 - [ ] Break down
 - [ ] Make drum pitches consistent
+- [ ] Details:
+    - [ ] Shorter violin intro
+
+### 2024-04-14 TODO Luister Song: Expression
+
+- [ ] Softer violins at the beginning
+
+Postponed
+---------
 
 ### 2024-04-12 Postponed Luister Song: Horizontal Build Up
 
