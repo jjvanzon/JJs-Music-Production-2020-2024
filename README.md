@@ -224,8 +224,8 @@ TODO
     - [ ] Break down
 - [ ] Details:
     - [x] Violin intro: shorter
-    - [x] Whistle intro: avoid high chord notes
     - [x] Violin intro: off-beat 2nd half
+    - [x] Whistle intro: use higher notes again for better connection violin intro.
     - [ ] Remove 2nd crash at end of patterns
     - [ ] Make drum pitches consistent
 
