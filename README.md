@@ -214,19 +214,20 @@ TODO
     - [ ] ~ Strings + bass echo + metal + hihat
     - [ ] Strings + metal + whistle
     - [ ] Sax + violins ?
-- [x] Build up 1st part tonal parts
-- [x] Build up 1st part drums
-- [x] Forget about having the entire synth melody at the beginning.
-- [x] ~~Merge announcing part (pattern 9) with drum build-up (pattern 20)~~ \> Would only add announcing chord.
-- [ ] Quietly build up 2nd part
-- [ ] Do original sequence
-- [ ] Break down
-- [ ] Make drum pitches consistent
+- [ ] Build up:
+    - [x] Build up 1st part tonal parts
+    - [x] Build up 1st part drums
+    - [x] Forget about having the entire synth melody at the beginning.
+    - [x] ~~Merge announcing part (pattern 9) with drum build-up (pattern 20)~~ \> Would only add announcing chord.
+    - [ ] Quietly build up 2nd part
+    - [ ] Do original sequence
+    - [ ] Break down
 - [ ] Details:
-    - [ ] Violin intro: shorter
-    - [ ] Violin intro: shift off-beat 2nd half
-    - [ ] Whistle intro: avoid high chord notes.
-    - [ ] Remove 2nd crash at end of patterns.
+    - [x] Violin intro: shorter
+    - [x] Whistle intro: avoid high chord notes
+    - [x] Violin intro: off-beat 2nd half
+    - [ ] Remove 2nd crash at end of patterns
+    - [ ] Make drum pitches consistent
 
 ### 2024-04-14 TODO Luister Song: Expression
 
