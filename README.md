@@ -226,6 +226,9 @@ TODO
     - [x] Violin intro: shorter
     - [x] Violin intro: off-beat 2nd half
     - [x] Whistle intro: use higher notes again for better connection violin intro.
+    - [ ] Synth intro: Avoid modulation (by transposing previous patterns)
+    - [ ] Synth intro: Less boring melody
+    - [ ] Drum build up: Remove metal part
     - [ ] Remove 2nd crash at end of patterns
     - [ ] Make drum pitches consistent
 
