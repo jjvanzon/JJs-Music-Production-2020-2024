@@ -211,9 +211,9 @@ TODO
     - [x] Strings + bass + whistle
     - [x] Strings + bass + synth
     - [x] Strings + metal + whistle + bass
+    - [x] Strings + bass echo + metal
     - [ ] ~ Strings + bass echo + metal + hihat
-    - [ ] Strings + metal + whistle
-    - [ ] Sax + violins ?
+    - [ ] ~ Strings + metal + whistle
 - [ ] Build up:
     - [x] Build up 1st part tonal parts
     - [x] Build up 1st part drums
@@ -222,7 +222,10 @@ TODO
     - [x] Quietly build up 2nd part
     - [x] Transition to original sequence
     - [x] Do original sequence
+    - [ ] Sax + violins 
+        - [ ] Maybe at the end mixed with pattern 11
     - [ ] __Break down__
+    - [ ] __Experimenting with pattern order__
 - [ ] Details:
     - [x] Violin intro: shorter
     - [x] Violin intro: off-beat 2nd half
