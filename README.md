@@ -223,7 +223,10 @@ TODO
 - [ ] Break down
 - [ ] Make drum pitches consistent
 - [ ] Details:
-    - [ ] Shorter violin intro
+    - [ ] Violin intro: shorter
+    - [ ] Violin intro: shift off-beat 2nd half
+    - [ ] Whistle intro: avoid high chord notes.
+    - [ ] Remove 2nd crash at end of patterns.
 
 ### 2024-04-14 TODO Luister Song: Expression
 
