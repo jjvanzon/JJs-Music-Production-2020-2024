@@ -229,7 +229,7 @@ TODO
     - [x] Whistle intro: use higher notes again for better connection violin intro.
     - [x] Synth intro: Avoid modulation (by transposing previous patterns)
     - [x] Drum build up: Remove metal part
-    - [ ] Synth intro: Less boring melody
+    - [ ] __Synth intro: Less boring melody__
     - [ ] Remove 2nd crash at end of patterns
     - [ ] Make drum pitches consistent
     - [ ] High metal chords a whole note off?
