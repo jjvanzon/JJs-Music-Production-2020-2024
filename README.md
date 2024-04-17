@@ -246,10 +246,12 @@ TODO
     - [x] Drum build up: Remove metal part
     - [x] Synth intro: Less boring melody
     - [x] ~ Panning envelopes at a speed on the beat (phone speakers made it sound like tremolos)
+    - [x] Last pattern twice? Fade out a little quicker.
     - [ ] Metal stereo error sounds good at the beginning of patterns. Use it more?
     - [ ] Metal high chords a whole note off?
     - [ ] Drums: Remove 2nd crash at end of patterns
     - [ ] Drums pitches consistent
+    - [ ] Synth channel volumes might mess up in the beginning.
 
 ### 2024-04-14 TODO Luister Song: Expression
 
