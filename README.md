@@ -232,7 +232,7 @@ TODO
     - [x] Proper fading at the end.
     - [x] ~~Last transition from loud synth part to loud whistle part is 'weird' perhaps use original synth pattern's 3rd variation.~~ \> Everything changed. Not sure what this applies to anymore.
     - [x] Announcing chords in all the right places.
-    - [ ] Strange beeps in end fade
+    - [x] Strange beeps in end fade
     - [ ] Latest synth melody alternative: Use different announcing arpeggio sample?
     - [ ] Latest synth melody alternative: Use different chord notes in end?
     - [ ] After sax solo there might be room for more?
