@@ -121,11 +121,11 @@ Songs / Tasks / Requirements
     - [x] Fixing 'errors' / details
     - [x] Fade-out
     - [x] End-fade simpler slow tremolo violin notes 
-    - [ ] __Vertical build-up__
-    - [ ] __Some horizontal build-up__
+    - [x] Vertical build-up
+    - [x] Some horizontal build-up
     - [ ] Synth melody more expression
     - [ ] Violin chords more dynamics \> After lead synth expression
-    - [ ] ~ Tame the crash
+    - [ ] Tame the crash
 - [ ] EXAM2.IT: "Rock"
     - [x] It seems there are 2 variations.
     - [x] May use EXAM2.IT but slower
@@ -200,62 +200,26 @@ Some songs I like less, and might be more laborious to make better.
 TODO
 ----
 
-### 2024-04-07 TODO Luister Song: Vertical Build-Up
+### 2024-04-07 TODO Luister Song: Details
 
-- [x] I think maybe it is a lot of musical information in one blow.
-- [x] But how to dose it better?
-- [x] Investigate nice combos of instrumentation
-    - [x] Strings
-    - [x] Strings + bass
-    - [x] Strings + bass + metal
-    - [x] Strings + bass + whistle
-    - [x] Strings + bass + synth
-    - [x] Strings + metal + whistle + bass
-    - [x] Strings + bass echo + metal
-    - [x] ~~Strings + bass echo + metal + hihat~~
-    - [x] ~~Strings + metal + whistle~~
-    - [x] ~~Stringy parts of 3rd out of 4 synth variations~~ \> Can't find a place for it.
-- [x] Build up:
-    - [x] Build up 1st part tonal parts
-    - [x] Build up 1st part drums
-    - [x] Forget about having the entire synth melody at the beginning.
-    - [x] ~~Merge announcing part (pattern 9) with drum build-up (pattern 20)~~ \> Would only add announcing chord.
-    - [x] Quietly build up 2nd part
-    - [x] Transition to original sequence
-    - [x] Do original sequence
-    - [x] Sax + violins 
-        - [x] Maybe at the end mixed with pattern 11
-    - [x] Break down
-    - [x] Experimenting with pattern order
-    - [x] Using whistle too soon is weird.
-    - [x] Hard synth patterns at the beginning going over into more complex variation sooner?
-    - [x] Break down: first louder one, then one of the quieter ones. 
-    - [x] Proper fading at the end.
-    - [x] ~~Last transition from loud synth part to loud whistle part is 'weird' perhaps use original synth pattern's 3rd variation.~~ \> Everything changed. Not sure what this applies to anymore.
-    - [x] Announcing chords in all the right places.
-    - [x] Strange beeps in end fade
-    - [x] Latest synth melody alternative: Use different chord notes in end?
-    - [x] ~~Restore most of original order in the middle.~~ \> Too repetitious.
-    - [x] ~ After sax solo there might be room for more?
-    - [x] Latest synth melody alternative: Change announcing arpeggio chord a bit?
-- [ ] Details:
-    - [x] Violin intro: shorter
-    - [x] Violin intro: off-beat 2nd half
-    - [x] Whistle intro: use higher notes again for better connection violin intro.
-    - [x] Synth intro: Avoid modulation (by transposing previous patterns)
-    - [x] Drum build up: Remove metal part
-    - [x] Synth intro: Less boring melody
-    - [x] ~ Panning envelopes at a speed on the beat (phone speakers made it sound like tremolos)
-    - [x] Last pattern twice? Fade out a little quicker.
-    - [x] Beeps at the end fade are back. Fix channel panning again.
-    - [x] Synth little more quiet in its 2nd intro pattern?
-    - [x] Synth channel volumes might mess up in the beginning.
-    - [x] Drums: Fix hihat where it had much lower pitch.
-    - [x] Drums: Remove 2nd crash at end of patterns
-    - [ ] Drums pitches consistent
-    - [ ] Metal stereo error sounds good at the beginning of patterns. Use it more?
-    - [ ] Metal high chords a whole note off?
-    - [ ] First modulation less distance?
+- [x] Violin intro: shorter
+- [x] Violin intro: off-beat 2nd half
+- [x] Whistle intro: use higher notes again for better connection violin intro.
+- [x] Synth intro: Avoid modulation (by transposing previous patterns)
+- [x] Drum build up: Remove metal part
+- [x] Synth intro: Less boring melody
+- [x] ~ Panning envelopes at a speed on the beat (phone speakers made it sound like tremolos)
+- [x] Last pattern twice? Fade out a little quicker.
+- [x] Beeps at the end fade are back. Fix channel panning again.
+- [x] Synth little more quiet in its 2nd intro pattern?
+- [x] Synth channel volumes might mess up in the beginning.
+- [x] Drums: Fix hihat where it had much lower pitch.
+- [x] Drums: Remove 2nd crash at end of patterns
+- [ ] .. Drums pitches consistent
+- [ ] Start final pattern with a cymbal or something?
+- [ ] Metal stereo error sounds good at the beginning of patterns. Use it more?
+- [ ] Metal high chords a whole note off?
+- [ ] First modulation less distance?
 
 ### 2024-04-14 TODO Luister Song: Expression
 
@@ -318,7 +282,6 @@ TODO
     - [ ] Echo by volume curves
     - [ ] Echo by note fade
 
-
 Postponed
 ---------
 
@@ -328,7 +291,6 @@ Postponed
 - [x] Sharing sample library on GitHub?
 - [ ] See that Git repo for more details.
 - [ ] Systematic check of sub-categories' contents?
-
 
 ### 2020-11-25 Postponed Adapting Song "Sad Organ Shorter Version"
 
@@ -488,3 +450,43 @@ I would like to change the folder structure of the samples, because DosBox/Impul
 
 - [x] Do a pattern with chords just base notes or fifth interval?
 - [x] And less notes? (Horizontal build up / out-of-scope?)
+
+
+### 2024-04-07 Done Luister Song: Vertical Build-Up
+
+- [x] I think maybe it is a lot of musical information in one blow.
+- [x] But how to dose it better?
+- [x] Investigate nice combos of instrumentation
+    - [x] Strings
+    - [x] Strings + bass
+    - [x] Strings + bass + metal
+    - [x] Strings + bass + whistle
+    - [x] Strings + bass + synth
+    - [x] Strings + metal + whistle + bass
+    - [x] Strings + bass echo + metal
+    - [x] ~~Strings + bass echo + metal + hihat~~
+    - [x] ~~Strings + metal + whistle~~
+    - [x] ~~Stringy parts of 3rd out of 4 synth variations~~ \> Can't find a place for it.
+- [x] Build up:
+    - [x] Build up 1st part tonal parts
+    - [x] Build up 1st part drums
+    - [x] Forget about having the entire synth melody at the beginning.
+    - [x] ~~Merge announcing part (pattern 9) with drum build-up (pattern 20)~~ \> Would only add announcing chord.
+    - [x] Quietly build up 2nd part
+    - [x] Transition to original sequence
+    - [x] Do original sequence
+    - [x] Sax + violins 
+        - [x] Maybe at the end mixed with pattern 11
+    - [x] Break down
+    - [x] Experimenting with pattern order
+    - [x] Using whistle too soon is weird.
+    - [x] Hard synth patterns at the beginning going over into more complex variation sooner?
+    - [x] Break down: first louder one, then one of the quieter ones. 
+    - [x] Proper fading at the end.
+    - [x] ~~Last transition from loud synth part to loud whistle part is 'weird' perhaps use original synth pattern's 3rd variation.~~ \> Everything changed. Not sure what this applies to anymore.
+    - [x] Announcing chords in all the right places.
+    - [x] Strange beeps in end fade
+    - [x] Latest synth melody alternative: Use different chord notes in end?
+    - [x] ~~Restore most of original order in the middle.~~ \> Too repetitious.
+    - [x] ~ After sax solo there might be room for more?
+    - [x] Latest synth melody alternative: Change announcing arpeggio chord a bit?
