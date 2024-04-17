@@ -222,16 +222,17 @@ TODO
     - [x] Quietly build up 2nd part
     - [x] Transition to original sequence
     - [x] Do original sequence
-    - [ ] Sax + violins 
-        - [ ] Maybe at the end mixed with pattern 11
-    - [ ] __Break down__
-    - [ ] __Experimenting with pattern order__
+    - [x] Sax + violins 
+        - [x] Maybe at the end mixed with pattern 11
+    - [x] Break down
+    - [x] Experimenting with pattern order
     - [x] Using whistle too soon is weird.
     - [x] Hard synth patterns at the beginning going over into more complex variation sooner?
-    - [ ] Break down: first louder one, then one of the quieter ones. 
-    - [ ] Restore most of original order in the middle
-    - [ ] Proper fading at the end.
-    - [ ] Last transition from loud synth part to loud whistle part is 'weird' perhaps use original synth pattern's 3rd variation.
+    - [x] Break down: first louder one, then one of the quieter ones. 
+    - [x] Proper fading at the end.
+    - [x] ~~Last transition from loud synth part to loud whistle part is 'weird' perhaps use original synth pattern's 3rd variation.~~ \> Everything changed. Not sure what this applies to anymore.
+    - [ ] 2nd loud synth a pattern too many?
+    - [ ] Restore most of original order in the middle.
     - [ ] Announcing chords in all the right places.
 - [ ] Details:
     - [x] Violin intro: shorter
