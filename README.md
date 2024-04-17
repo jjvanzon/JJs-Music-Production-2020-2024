@@ -247,6 +247,10 @@ TODO
     - [x] Synth intro: Less boring melody
     - [x] ~ Panning envelopes at a speed on the beat (phone speakers made it sound like tremolos)
     - [x] Last pattern twice? Fade out a little quicker.
+    - [x] Beeps at the end fade are back. Fix channel panning again.
+    - [x] Synth little more quiet in its 2nd intro pattern?
+    - [x] Drums: Fix hihat where it had much lower pitch.
+    - [ ] First modulation less distance?
     - [ ] Metal stereo error sounds good at the beginning of patterns. Use it more?
     - [ ] Metal high chords a whole note off?
     - [ ] Drums: Remove 2nd crash at end of patterns
