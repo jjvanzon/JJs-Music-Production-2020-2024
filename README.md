@@ -249,13 +249,13 @@ TODO
     - [x] Last pattern twice? Fade out a little quicker.
     - [x] Beeps at the end fade are back. Fix channel panning again.
     - [x] Synth little more quiet in its 2nd intro pattern?
+    - [x] Synth channel volumes might mess up in the beginning.
     - [x] Drums: Fix hihat where it had much lower pitch.
-    - [ ] First modulation less distance?
+    - [x] Drums: Remove 2nd crash at end of patterns
+    - [ ] Drums pitches consistent
     - [ ] Metal stereo error sounds good at the beginning of patterns. Use it more?
     - [ ] Metal high chords a whole note off?
-    - [ ] Drums: Remove 2nd crash at end of patterns
-    - [ ] Drums pitches consistent
-    - [ ] Synth channel volumes might mess up in the beginning.
+    - [ ] First modulation less distance?
 
 ### 2024-04-14 TODO Luister Song: Expression
 
