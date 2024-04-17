@@ -202,8 +202,8 @@ TODO
 
 ### 2024-04-07 TODO Luister Song: Vertical Build-Up
 
-- [ ] I think maybe it is a lot of musical information in one blow.
-- [ ] But how to dose it better?
+- [x] I think maybe it is a lot of musical information in one blow.
+- [x] But how to dose it better?
 - [x] Investigate nice combos of instrumentation
     - [x] Strings
     - [x] Strings + bass
@@ -215,7 +215,7 @@ TODO
     - [x] ~~Strings + bass echo + metal + hihat~~
     - [x] ~~Strings + metal + whistle~~
     - [x] ~~Stringy parts of 3rd out of 4 synth variations~~ \> Can't find a place for it.
-- [ ] Build up:
+- [x] Build up:
     - [x] Build up 1st part tonal parts
     - [x] Build up 1st part drums
     - [x] Forget about having the entire synth melody at the beginning.
@@ -245,12 +245,12 @@ TODO
     - [x] Synth intro: Avoid modulation (by transposing previous patterns)
     - [x] Drum build up: Remove metal part
     - [x] Synth intro: Less boring melody
+    - [x] ~ Panning envelopes at a speed on the beat (phone speakers made it sound like tremolos)
     - [ ] Metal stereo error sounds good at the beginning of patterns. Use it more?
     - [ ] Remove 2nd crash at end of patterns
     - [ ] Make drum pitches consistent
     - [ ] High metal chords a whole note off?
     - [ ] Echo violin (slow tremolo) accidentally all same volume?
-    - [ ] Panning envelopes at a speed on the beat (phone speakers make it sound like tremolos)
 
 
 ### 2024-04-14 TODO Luister Song: Expression
