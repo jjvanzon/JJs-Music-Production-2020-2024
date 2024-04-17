@@ -204,7 +204,7 @@ TODO
 
 - [ ] I think maybe it is a lot of musical information in one blow.
 - [ ] But how to dose it better?
-- [ ] Investigate nice combos of instrumentation
+- [x] Investigate nice combos of instrumentation
     - [x] Strings
     - [x] Strings + bass
     - [x] Strings + bass + metal
@@ -212,9 +212,9 @@ TODO
     - [x] Strings + bass + synth
     - [x] Strings + metal + whistle + bass
     - [x] Strings + bass echo + metal
-    - [ ] ~~Strings + bass echo + metal + hihat~~
-    - [ ] ~~Strings + metal + whistle~~
-    - [ ] Stringy parts of 3rd our of 4 synth variations ?
+    - [x] ~~Strings + bass echo + metal + hihat~~
+    - [x] ~~Strings + metal + whistle~~
+    - [x] ~~Stringy parts of 3rd out of 4 synth variations~~ \> Can't find a place for it.
 - [ ] Build up:
     - [x] Build up 1st part tonal parts
     - [x] Build up 1st part drums
