@@ -226,17 +226,27 @@ TODO
         - [ ] Maybe at the end mixed with pattern 11
     - [ ] __Break down__
     - [ ] __Experimenting with pattern order__
+    - [x] Using whistle too soon is weird.
+    - [x] Hard synth patterns at the beginning going over into more complex variation sooner?
+    - [ ] Break down: first louder one, then one of the quieter ones. 
+    - [ ] Restore most of original order in the middle
+    - [ ] Proper fading at the end.
+    - [ ] Last transition from loud synth part to loud whistle part is 'weird' perhaps use original synth pattern's 3rd variation.
+    - [ ] Announcing chords in all the right places.
 - [ ] Details:
     - [x] Violin intro: shorter
     - [x] Violin intro: off-beat 2nd half
     - [x] Whistle intro: use higher notes again for better connection violin intro.
     - [x] Synth intro: Avoid modulation (by transposing previous patterns)
     - [x] Drum build up: Remove metal part
-    - [ ] __Synth intro: Less boring melody__
+    - [x] Synth intro: Less boring melody
+    - [ ] Metal stereo error sounds good at the beginning of patterns. Use it more?
     - [ ] Remove 2nd crash at end of patterns
     - [ ] Make drum pitches consistent
     - [ ] High metal chords a whole note off?
     - [ ] Echo violin (slow tremolo) accidentally all same volume?
+    - [ ] Panning envelopes at a speed on the beat (phone speakers make it sound like tremolos)
+
 
 ### 2024-04-14 TODO Luister Song: Expression
 
