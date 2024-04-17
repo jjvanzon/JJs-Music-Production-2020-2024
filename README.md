@@ -216,10 +216,12 @@ TODO
 - [x] Drums: Fix hihat where it had much lower pitch.
 - [x] Drums: Remove 2nd crash at end of patterns
 - [ ] .. Drums pitches consistent
+- [ ] Missing announcing chord before whistle soft part
 - [ ] Start final pattern with a cymbal or something?
 - [ ] Metal stereo error sounds good at the beginning of patterns. Use it more?
 - [ ] Metal high chords a whole note off?
 - [ ] First modulation less distance?
+- [ ] Final part B before sax outtro seems to have violins more quiet. Might want louder.
 
 ### 2024-04-14 TODO Luister Song: Expression
 
