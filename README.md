@@ -231,9 +231,9 @@ TODO
     - [x] Break down: first louder one, then one of the quieter ones. 
     - [x] Proper fading at the end.
     - [x] ~~Last transition from loud synth part to loud whistle part is 'weird' perhaps use original synth pattern's 3rd variation.~~ \> Everything changed. Not sure what this applies to anymore.
-    - [ ] 2nd loud synth a pattern too many?
+    - [x] Announcing chords in all the right places.
+    - [ ] 2nd loud synth a pattern too many? Or too little now?
     - [ ] Restore most of original order in the middle.
-    - [ ] Announcing chords in all the right places.
 - [ ] Details:
     - [x] Violin intro: shorter
     - [x] Violin intro: off-beat 2nd half
