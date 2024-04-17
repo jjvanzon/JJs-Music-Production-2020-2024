@@ -235,8 +235,9 @@ TODO
     - [x] Announcing chords in all the right places.
     - [x] Strange beeps in end fade
     - [x] Latest synth melody alternative: Use different chord notes in end?
+    - [ ] Latest synth melody alternative: Change announcing arpeggio chord a bit?
     - [ ] After sax solo there might be room for more?
-    - [ ] Restore most of original order in the middle.
+    - [ ] ~ Restore most of original order in the middle.
 - [ ] Details:
     - [x] Violin intro: shorter
     - [x] Violin intro: off-beat 2nd half
