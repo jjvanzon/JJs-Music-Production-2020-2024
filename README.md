@@ -247,15 +247,14 @@ TODO
     - [x] Synth intro: Less boring melody
     - [x] ~ Panning envelopes at a speed on the beat (phone speakers made it sound like tremolos)
     - [ ] Metal stereo error sounds good at the beginning of patterns. Use it more?
-    - [ ] Remove 2nd crash at end of patterns
-    - [ ] Make drum pitches consistent
-    - [ ] High metal chords a whole note off?
-    - [ ] Echo violin (slow tremolo) accidentally all same volume?
-
+    - [ ] Metal high chords a whole note off?
+    - [ ] Drums: Remove 2nd crash at end of patterns
+    - [ ] Drums pitches consistent
 
 ### 2024-04-14 TODO Luister Song: Expression
 
 - [ ] Softer violins at the beginning
+- [ ] Echo violin (slow tremolo) accidentally all same volume?
 - [ ] Expression dimensions:
     - [ ] Volume
     - [ ] Pitch
