@@ -232,7 +232,10 @@ TODO
     - [x] Proper fading at the end.
     - [x] ~~Last transition from loud synth part to loud whistle part is 'weird' perhaps use original synth pattern's 3rd variation.~~ \> Everything changed. Not sure what this applies to anymore.
     - [x] Announcing chords in all the right places.
-    - [ ] 2nd loud synth a pattern too many? Or too little now?
+    - [ ] Strange beeps in end fade
+    - [ ] Latest synth melody alternative: Use different announcing arpeggio sample?
+    - [ ] Latest synth melody alternative: Use different chord notes in end?
+    - [ ] After sax solo there might be room for more?
     - [ ] Restore most of original order in the middle.
 - [ ] Details:
     - [x] Violin intro: shorter
@@ -252,6 +255,63 @@ TODO
 ### 2024-04-14 TODO Luister Song: Expression
 
 - [ ] Softer violins at the beginning
+- [ ] Expression dimensions:
+    - [ ] Volume
+    - [ ] Pitch
+    - [ ] Panning
+    - [ ] Filter
+    - [ ] Timing
+- [ ] Expression possibilities:
+    - [ ] Volume
+    - [ ] Volume slide
+    - [ ] Volume attack
+    - [ ] Volume decay
+    - [ ] Volume fade
+    - [ ] Volume tremolo depth
+    - [ ] Volume tremolo speed
+    - [ ] Volume swing
+    - [ ] .. see other envelope properties
+    - [ ] Volume relative in melody
+    - [ ] Volume relative in chord
+    - [ ] Volume relative between instruments
+    - [ ] Volume changes flat
+    - [ ] Volume changes fluent
+    - [ ] Volume changes abrupt
+    - [ ] Volume emphasis by raising one volume and lowering other volumes
+    - [ ] Pitch bend
+    - [ ] Pitch attack
+    - [ ] Pitch release
+    - [ ] Pitch slide from note to note (glissando)
+    - [ ] Pitch vibrato depth
+    - [ ] Pitch vibrato speed
+    - [ ] Panning position
+    - [ ] Panning bend
+    - [ ] Panning attack
+    - [ ] Panning release
+    - [ ] Panning relative
+    - [ ] Panning swing
+    - [ ] .. see other envelope properties
+    - [ ] .. compare with volume options above
+    - [ ] Panbrello depth
+    - [ ] Penbrello speed
+    - [ ] Filter (with sample offset)
+    - [ ] Filter (sample variations)
+    - [ ] Filter (overtones octave / fifth / etc.)
+    - [ ] Timing note start earlier
+    - [ ] Timing note start later
+    - [ ] Timing note start relative between notes
+    - [ ] Timing instruments/voices independent flow
+    - [ ] Timing note end (staccato / legato)
+    - [ ] Timing regular tempo
+    - [ ] Timing fluent tempo changes
+    - [ ] Timing abrupt tempo changes (rubato)
+    - [ ] Echo volume
+    - [ ] Echo speed
+    - [ ] Echo short/long
+    - [ ] Echo by repetition
+    - [ ] Echo by volume curves
+    - [ ] Echo by note fade
+
 
 Postponed
 ---------
