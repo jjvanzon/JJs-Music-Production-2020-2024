@@ -212,8 +212,9 @@ TODO
     - [x] Strings + bass + synth
     - [x] Strings + metal + whistle + bass
     - [x] Strings + bass echo + metal
-    - [ ] ~ Strings + bass echo + metal + hihat
-    - [ ] ~ Strings + metal + whistle
+    - [ ] ~~Strings + bass echo + metal + hihat~~
+    - [ ] ~~Strings + metal + whistle~~
+    - [ ] Stringy parts of 3rd our of 4 synth variations ?
 - [ ] Build up:
     - [x] Build up 1st part tonal parts
     - [x] Build up 1st part drums
@@ -233,8 +234,7 @@ TODO
     - [x] ~~Last transition from loud synth part to loud whistle part is 'weird' perhaps use original synth pattern's 3rd variation.~~ \> Everything changed. Not sure what this applies to anymore.
     - [x] Announcing chords in all the right places.
     - [x] Strange beeps in end fade
-    - [ ] Latest synth melody alternative: Use different announcing arpeggio sample?
-    - [ ] Latest synth melody alternative: Use different chord notes in end?
+    - [x] Latest synth melody alternative: Use different chord notes in end?
     - [ ] After sax solo there might be room for more?
     - [ ] Restore most of original order in the middle.
 - [ ] Details:
