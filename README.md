@@ -1,5 +1,5 @@
-JJ's Music Release 2020-11
-==========================
+JJ's Music Production 2021-2024
+===============================
 
 Introduction
 ------------
@@ -7,8 +7,10 @@ Introduction
 I have some other songs in mind that might be releasable, though perhaps more difficult to get recorded.
 
 
-Rules
------
+Information
+-----------
+
+### Rules
 
 'Rules' pimping Tracker songs from the 90's:
 
@@ -16,9 +18,128 @@ Rules
 - Reuse and transform existing musical information.
 - Use former sample library.
 
-That way I feel I respect what it was,  
+That way I respect what it was,  
 will limit how far I go,  
-and can be pragmatic finishing up work.
+and can be pragmatic finishing things up.
+
+### Lessons Learned Composing Music
+
+Basics:
+
+- Originality is overrated
+- Repetition is fine
+- The perfect pattern doesn't exist
+
+Progression / variation:
+
+- Use variations
+- Don't be lazy; copy, paste, edit
+- Simplify things:
+- Build up calmly, both the instruments and tonal/harmonic progression
+- Too many things going on at the same time
+
+Analysis:
+
+- Analyze musical / harmonic content for opportunities to vary
+- One complicated loop may contain so much musical information that you might build a whole track around it.
+- There are only so many audible frequencies to saturate.
+
+Feeling:
+
+- Be satisfied
+- Don't lead with pride
+- Don't fear being mocked
+- Abandon a bad idea
+- No finetuning till it falls apart
+
+Technique:
+
+- Better samples
+- Use (all) expression capabilities
+- Be tidy / well organized
+
+
+### Expression
+
+#### Expression Dimensions
+
+- Volume
+- Pitch
+- Panning
+- Filter
+- Timing
+- Echo
+
+#### Volume Expressions
+
+- Volume slide
+- Volume attack
+- Volume decay
+- Volume fade
+- Volume tremolo depth
+- Volume tremolo speed
+- Volume swing
+- .. see other envelope properties
+- Volume overall
+- Volume relative in melody
+- Volume relative in chord
+- Volume relative between instruments
+- Volume changes flat
+- Volume changes fluent
+- Volume changes abrupt
+- Volume emphasis by raising one volume and lowering other volumes
+
+#### Pitch Expressions
+
+- Pitch bend
+- Pitch attack
+- Pitch release
+- Pitch glissando (slide from note to note)
+- Pitch vibrato depth
+- Pitch vibrato speed
+- .. compare with volume options above
+
+#### Panning Expressions
+
+- Panning position
+- Panning bend
+- Panning attack
+- Panning release
+- Panning relative
+- Panning swing
+- .. see other envelope properties
+- .. compare with volume options above
+- Panbrello depth
+- Penbrello speed
+
+#### Filtering Expressions
+
+- Filter (with sample offset)
+- Filter (sample variations)
+- Filter (overtones octave / fifth / etc.)
+- .. compare with volume options above
+
+#### Timing Expression
+
+- Timing note start earlier
+- Timing note start later
+- Timing note start relative between notes
+- Timing instruments/voices independent flow
+- Timing note end (staccato / legato)
+- Timing regular tempo
+- Timing fluent tempo changes
+- Timing abrupt tempo changes (rubato)
+- .. compare with volume options above
+
+#### Echo Expressions
+
+- Echo volume
+- Echo speed
+- Echo varying short/long
+- Echo by repetition
+- Echo by volume curves
+- Echo by note fade
+- Echo stereo effects
 
 
 Techniques Used
@@ -62,7 +183,7 @@ Steps Roughly
 - [ ] Research
     - [x] Finding out how to record XM songs.
     - [x] Finding a way to record MiniDisk content to PC.
-    - [ ] Try finding tape cassettes in attic.
+    - [ ] Try finding tape cassettes in storage.
 - [ ] .. Organizing samples
 - [ ] Volume maximization
 
@@ -200,21 +321,8 @@ Some songs I like less, and might be more laborious to make better.
 TODO
 ----
 
-### 2024-04-07 TODO Luister Song: Details
+### 2024-05-21 TODO Luister Song: Details
 
-- [x] Violin intro: shorter
-- [x] Violin intro: off-beat 2nd half
-- [x] Whistle intro: use higher notes again for better connection violin intro.
-- [x] Synth intro: Avoid modulation (by transposing previous patterns)
-- [x] Drum build up: Remove metal part
-- [x] Synth intro: Less boring melody
-- [x] ~ Panning envelopes at a speed on the beat (phone speakers made it sound like tremolos)
-- [x] Last pattern twice? Fade out a little quicker.
-- [x] Beeps at the end fade are back. Fix channel panning again.
-- [x] Synth little more quiet in its 2nd intro pattern?
-- [x] Synth channel volumes might mess up in the beginning.
-- [x] Drums: Fix hihat where it had much lower pitch.
-- [x] Drums: Remove 2nd crash at end of patterns
 - [ ] .. Drums pitches consistent
 - [ ] Missing announcing chord before whistle soft part
 - [ ] Start final pattern with a cymbal or something?
@@ -222,67 +330,17 @@ TODO
 - [ ] Metal high chords a whole note off?
 - [ ] First modulation less distance?
 - [ ] Final part B before sax outtro seems to have violins more quiet. Might want louder.
+- [ ] Before whistle intro, ealier note offs, in the pattern before.
+- [ ] Counts for end of string intro too.
+- [ ] After whistle intro, synth part starts with some unexpected chords. Maybe change a major to a minor at the beginning.
+- [ ] Fade-out is a bit dull now
+- [ ] Tempo slow according to a friend
 
 ### 2024-04-14 TODO Luister Song: Expression
 
 - [ ] Softer violins at the beginning
 - [ ] Echo violin (slow tremolo) accidentally all same volume?
-- [ ] Expression dimensions:
-    - [ ] Volume
-    - [ ] Pitch
-    - [ ] Panning
-    - [ ] Filter
-    - [ ] Timing
-- [ ] Expression possibilities:
-    - [ ] Volume
-    - [ ] Volume slide
-    - [ ] Volume attack
-    - [ ] Volume decay
-    - [ ] Volume fade
-    - [ ] Volume tremolo depth
-    - [ ] Volume tremolo speed
-    - [ ] Volume swing
-    - [ ] .. see other envelope properties
-    - [ ] Volume relative in melody
-    - [ ] Volume relative in chord
-    - [ ] Volume relative between instruments
-    - [ ] Volume changes flat
-    - [ ] Volume changes fluent
-    - [ ] Volume changes abrupt
-    - [ ] Volume emphasis by raising one volume and lowering other volumes
-    - [ ] Pitch bend
-    - [ ] Pitch attack
-    - [ ] Pitch release
-    - [ ] Pitch slide from note to note (glissando)
-    - [ ] Pitch vibrato depth
-    - [ ] Pitch vibrato speed
-    - [ ] Panning position
-    - [ ] Panning bend
-    - [ ] Panning attack
-    - [ ] Panning release
-    - [ ] Panning relative
-    - [ ] Panning swing
-    - [ ] .. see other envelope properties
-    - [ ] .. compare with volume options above
-    - [ ] Panbrello depth
-    - [ ] Penbrello speed
-    - [ ] Filter (with sample offset)
-    - [ ] Filter (sample variations)
-    - [ ] Filter (overtones octave / fifth / etc.)
-    - [ ] Timing note start earlier
-    - [ ] Timing note start later
-    - [ ] Timing note start relative between notes
-    - [ ] Timing instruments/voices independent flow
-    - [ ] Timing note end (staccato / legato)
-    - [ ] Timing regular tempo
-    - [ ] Timing fluent tempo changes
-    - [ ] Timing abrupt tempo changes (rubato)
-    - [ ] Echo volume
-    - [ ] Echo speed
-    - [ ] Echo short/long
-    - [ ] Echo by repetition
-    - [ ] Echo by volume curves
-    - [ ] Echo by note fade
+- [ ] More dynamics in the violin chords in the mid-low frequencies?
 
 Postponed
 ---------
@@ -453,7 +511,6 @@ I would like to change the folder structure of the samples, because DosBox/Impul
 - [x] Do a pattern with chords just base notes or fifth interval?
 - [x] And less notes? (Horizontal build up / out-of-scope?)
 
-
 ### 2024-04-07 Done Luister Song: Vertical Build-Up
 
 - [x] I think maybe it is a lot of musical information in one blow.
@@ -492,3 +549,19 @@ I would like to change the folder structure of the samples, because DosBox/Impul
     - [x] ~~Restore most of original order in the middle.~~ \> Too repetitious.
     - [x] ~ After sax solo there might be room for more?
     - [x] Latest synth melody alternative: Change announcing arpeggio chord a bit?
+
+### 2024-04-07 Done Luister Song: Details
+
+- [x] Violin intro: shorter
+- [x] Violin intro: off-beat 2nd half
+- [x] Whistle intro: use higher notes again for better connection violin intro.
+- [x] Synth intro: Avoid modulation (by transposing previous patterns)
+- [x] Drum build up: Remove metal part
+- [x] Synth intro: Less boring melody
+- [x] ~ Panning envelopes at a speed on the beat (phone speakers made it sound like tremolos)
+- [x] Last pattern twice? Fade out a little quicker.
+- [x] Beeps at the end fade are back. Fix channel panning again.
+- [x] Synth little more quiet in its 2nd intro pattern?
+- [x] Synth channel volumes might mess up in the beginning.
+- [x] Drums: Fix hihat where it had much lower pitch.
+- [x] Drums: Remove 2nd crash at end of patterns
