@@ -68,6 +68,7 @@ TODO:
 - [ ] ~ Go by all effects ?
 - [ ] ~ Read all the Impulse Tracker docs ?
 - [ ] ~ Learn filter mechanisms from other mods ?
+- [ ] ~ Separate listings for each effect or technique ?
 - [ ] Watch the line where pitch expression crosses over to composition.
 
 #### Expression Dimensions
@@ -89,8 +90,11 @@ TODO:
 - Volume fade (with envelope)
 - Volume tremolo depth
 - Volume tremolo speed
-- Volume tremolo with loop
-- Volume tremolo with loop (with carry)
+- Volume tremolo rate
+- Volume tremolo with envelope (with loop)
+- Volume tremolo with envelope (no loop)
+- Volume tremolo with envelope (with loop/carry)
+- Volume tremolo with envelope (no loop with carry)
 - Volume swing
 - Volume overall
 - Volume relative between instruments or parts
@@ -103,16 +107,23 @@ TODO:
 
 #### Pitch Expressions
 
-- Pitch attack
-- Pitch release
+- Pitch attack up
+- Pitch attack down
+- Pitch decay up
+- Pitch decay down
+- Pitch release up
+- Pitch release down
 - Pitch bend
 - Pitch glissando (slide from note to note)
 - Pitch vibrato speed
 - Pitch vibrato depth
 - Pitch vibrato rate
+- Pitch vibrato with envelope (with loop)
+- Pitch vibrato with envelope (no loop)
+- Pitch vibrato with envelope (with loop/carry)
+- Pitch vibrato with envelope (no loop with carry)
 - Pitch intentionally out of tune
 - .. see other envelope properties
-- .. compare with volume options above
 - .. add effects column options
 
 #### Panning Expressions
