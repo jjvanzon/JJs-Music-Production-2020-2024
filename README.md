@@ -101,13 +101,14 @@ TODO:
 - Volume tremolo with envelope (no loop with carry)
 - Volume swing
 - Volume overall
-- Volume relative between instruments or parts
+- Volume relative between instruments/voices
 - Volume relative in melody
 - Volume relative in chord
 - Volume changes flat
 - Volume changes fluent
 - Volume changes abrupt
 - Volume emphasis raise one volume lower others
+- .. add effects column options
 
 #### Pitch Expressions
 
@@ -150,7 +151,7 @@ TODO:
 - Panbrello with loop
 - Panbrello with loop (with carry)
 - Panning swing
-- Panning relative between instruments or parts
+- Panning relative between instruments/voices
 - Panning relative in melody
 - Panning relative in chord
 - Panning changes flat
@@ -159,6 +160,7 @@ TODO:
 - Panning emphasis with sudden change
 - Panning with phase shift
 - .. see other envelope properties
+- .. add effects column options
 
 #### Filtering Expressions
 
@@ -180,11 +182,13 @@ TODO:
 - Filter modulation speed
 - Filter modulation depth
 - Filter modulation rate
+- Filter modulation wave form
 - Filter modulation regular
 - Filter modulation irregular
-- Filter using partial volume envelopes
+- Filter using volume envelopes on partials
+- Filter using volume envelopes on partials (with carry)
 - Filter swing
-- Filter relative between instruments or parts
+- Filter relative between instruments/voices
 - Filter relative in melody
 - Filter relative in chord
 - Filter changes flat
@@ -196,7 +200,8 @@ TODO:
 
 - Timing note start earlier
 - Timing note start later
-- Timing note start relative between notes
+- Timing note start relative between melody notes
+- Timing note start relative between chord notes
 - Timing instruments/voices independent flow
 - Timing note end (staccato / legato)
 - Timing regular tempo
