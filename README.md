@@ -85,12 +85,16 @@ TODO:
 - Volume of note
 - Volume attack
 - Volume decay
-- Volume slide
+- Volume slide up (crescendo)
+- Volume side down (decrescendo)
 - Volume fade (with fade out)
 - Volume fade (with envelope)
 - Volume tremolo depth
 - Volume tremolo speed
 - Volume tremolo rate
+- Volume tremolo wave form
+- Volume tremolo regular
+- Volume tremolo irregular
 - Volume tremolo with envelope (with loop)
 - Volume tremolo with envelope (no loop)
 - Volume tremolo with envelope (with loop/carry)
@@ -113,11 +117,15 @@ TODO:
 - Pitch decay down
 - Pitch release up
 - Pitch release down
-- Pitch bend
+- Pitch bend up
+- Pitch bend down
 - Pitch glissando (slide from note to note)
-- Pitch vibrato speed
 - Pitch vibrato depth
+- Pitch vibrato speed
 - Pitch vibrato rate
+- Pitch vibrato wave form
+- Pitch vibrato regular
+- Pitch vibrato irregular
 - Pitch vibrato with envelope (with loop)
 - Pitch vibrato with envelope (no loop)
 - Pitch vibrato with envelope (with loop/carry)
@@ -135,6 +143,10 @@ TODO:
 - Panning release
 - Panbrello depth
 - Panbrello speed
+- Panbrello rate
+- Panbrello wave form
+- Panbrello regular
+- Panbrello irregular
 - Panbrello with loop
 - Panbrello with loop (with carry)
 - Panning swing
@@ -154,8 +166,31 @@ TODO:
 - Filter (sample variations)
 - Filter (overtones octave / fifth / etc.)
 - Filter (negate + overtones) 
+- Filter (stacking partials)
 - Filter (detune)
-- .. compare with volume options above
+- Filter of a note
+- Filter attack (soft to bright)
+- Filter attack (bright to soft)
+- Filter decay (soft to bright)
+- Filter decay (bright to soft)
+- Filter slide (brighten)
+- Filter slide (soften)
+- Filter release (soften)
+- Filter release (brighten)
+- Filter modulation speed
+- Filter modulation depth
+- Filter modulation rate
+- Filter modulation regular
+- Filter modulation irregular
+- Filter using partial volume envelopes
+- Filter swing
+- Filter relative between instruments or parts
+- Filter relative in melody
+- Filter relative in chord
+- Filter changes flat
+- Filter changes fluent
+- Filter changes abrupt
+- Filter emphasis by sudden change
 
 #### Timing Expressions
 
