@@ -64,11 +64,11 @@ Analysis:
 
 TODO:
 
-- [ ] .. Look at envelope properties
+- [ ] .. Look at envelope properties.
 - [ ] ~ Go by all effects ?
 - [ ] ~ Read all the Impulse Tracker docs ?
-- [ ] ~ Learn filter mecganisms from other mods ?
-- [ ] Watch the line where pitch expression crosses over to composition
+- [ ] ~ Learn filter mechanisms from other mods ?
+- [ ] Watch the line where pitch expression crosses over to composition.
 
 #### Expression Dimensions
 
@@ -113,6 +113,7 @@ TODO:
 - Pitch intentional detune
 - .. see other envelope properties
 - .. compare with volume options above
+- .. add effects column options
 
 #### Panning Expressions
 
@@ -124,6 +125,7 @@ TODO:
 - Panning swing
 - Panbrello depth
 - Penbrello speed
+- Panning with phase shift
 - .. see other envelope properties
 - .. compare with volume options above
 
