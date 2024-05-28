@@ -22,7 +22,7 @@ That way I respect what it was,
 will limit how far I go,  
 and can be pragmatic finishing things up.
 
-### Lessons Learned Composing Music
+### Lessons Learned
 
 Basics:
 
@@ -35,14 +35,10 @@ Progression / variation:
 - Use variations
 - Don't be lazy; copy, paste, edit
 - Simplify things:
-- Build up calmly, both the instruments and tonal/harmonic progression
+- Build up calmly:
+- The instruments
+- And tonal/harmonic progression
 - Too many things going on at the same time
-
-Analysis:
-
-- Analyze musical / harmonic content for opportunities to vary
-- One complicated loop may contain so much musical information that you might build a whole track around it.
-- There are only so many audible frequencies to saturate.
 
 Feeling:
 
@@ -58,8 +54,21 @@ Technique:
 - Use (all) expression capabilities
 - Be tidy / well organized
 
+Analysis:
+
+- Analyze musical / harmonic content for opportunities to vary
+- One complicated loop may contain so much musical information that you might build a whole track around it.
+- There are only so many audible frequencies to saturate.
 
 ### Expression
+
+TODO:
+
+- [ ] .. Look at envelope properties
+- [ ] ~ Go by all effects ?
+- [ ] ~ Read all the Impulse Tracker docs ?
+- [ ] ~ Learn filter mecganisms from other mods ?
+- [ ] Watch the line where pitch expression crosses over to composition
 
 #### Expression Dimensions
 
@@ -72,22 +81,25 @@ Technique:
 
 #### Volume Expressions
 
-- Volume slide
+- Volume of note
 - Volume attack
 - Volume decay
-- Volume fade
+- Volume slide
+- Volume fade (with fade out)
+- Volume fade (with envelope)
 - Volume tremolo depth
 - Volume tremolo speed
+- Volume tremolo with loop
+- Volume tremolo with loop (with carry)
 - Volume swing
-- .. see other envelope properties
 - Volume overall
+- Volume relative between instruments
 - Volume relative in melody
 - Volume relative in chord
-- Volume relative between instruments
 - Volume changes flat
 - Volume changes fluent
 - Volume changes abrupt
-- Volume emphasis by raising one volume and lowering other volumes
+- Volume emphasis raise one volume lower others
 
 #### Pitch Expressions
 
@@ -95,8 +107,11 @@ Technique:
 - Pitch attack
 - Pitch release
 - Pitch glissando (slide from note to note)
-- Pitch vibrato depth
 - Pitch vibrato speed
+- Pitch vibrato depth
+- Pitch vibrato rate
+- Pitch intentional detune
+- .. see other envelope properties
 - .. compare with volume options above
 
 #### Panning Expressions
@@ -107,19 +122,21 @@ Technique:
 - Panning release
 - Panning relative
 - Panning swing
-- .. see other envelope properties
-- .. compare with volume options above
 - Panbrello depth
 - Penbrello speed
+- .. see other envelope properties
+- .. compare with volume options above
 
 #### Filtering Expressions
 
 - Filter (with sample offset)
 - Filter (sample variations)
 - Filter (overtones octave / fifth / etc.)
+- Filter (negate + overtones) 
+- Filter (detune)
 - .. compare with volume options above
 
-#### Timing Expression
+#### Timing Expressions
 
 - Timing note start earlier
 - Timing note start later
@@ -328,19 +345,21 @@ TODO
 - [ ] Start final pattern with a cymbal or something?
 - [ ] Metal stereo error sounds good at the beginning of patterns. Use it more?
 - [ ] Metal high chords a whole note off?
-- [ ] First modulation less distance?
 - [ ] Final part B before sax outtro seems to have violins more quiet. Might want louder.
 - [ ] Before whistle intro, ealier note offs, in the pattern before.
 - [ ] Counts for end of string intro too.
 - [ ] After whistle intro, synth part starts with some unexpected chords. Maybe change a major to a minor at the beginning.
 - [ ] Fade-out is a bit dull now
+- [ ] First modulation less distance?
 - [ ] Tempo slow according to a friend
 
 ### 2024-04-14 TODO Luister Song: Expression
 
+- [ ] .. Listing expression possibilities
 - [ ] Softer violins at the beginning
 - [ ] Echo violin (slow tremolo) accidentally all same volume?
 - [ ] More dynamics in the violin chords in the mid-low frequencies?
+- [ ] Some volume envelopes use both "Envelope Loop" and "Sustain Loop", which seems strange to me.
 
 Postponed
 ---------
