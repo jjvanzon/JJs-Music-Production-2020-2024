@@ -93,7 +93,7 @@ TODO:
 - Volume tremolo with loop (with carry)
 - Volume swing
 - Volume overall
-- Volume relative between instruments
+- Volume relative between instruments or parts
 - Volume relative in melody
 - Volume relative in chord
 - Volume changes flat
@@ -103,14 +103,14 @@ TODO:
 
 #### Pitch Expressions
 
-- Pitch bend
 - Pitch attack
 - Pitch release
+- Pitch bend
 - Pitch glissando (slide from note to note)
 - Pitch vibrato speed
 - Pitch vibrato depth
 - Pitch vibrato rate
-- Pitch intentional detune
+- Pitch intentionally out of tune
 - .. see other envelope properties
 - .. compare with volume options above
 - .. add effects column options
@@ -118,16 +118,24 @@ TODO:
 #### Panning Expressions
 
 - Panning position
-- Panning bend
 - Panning attack
+- Panning decay
+- Panning slide
 - Panning release
-- Panning relative
-- Panning swing
 - Panbrello depth
-- Penbrello speed
+- Panbrello speed
+- Panbrello with loop
+- Panbrello with loop (with carry)
+- Panning swing
+- Panning relative between instruments or parts
+- Panning relative in melody
+- Panning relative in chord
+- Panning changes flat
+- Panning changes fluent
+- Panning changes abrupt
+- Panning emphasis with sudden change
 - Panning with phase shift
 - .. see other envelope properties
-- .. compare with volume options above
 
 #### Filtering Expressions
 
