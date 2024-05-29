@@ -12,22 +12,22 @@ Information
 
 ### Rules
 
-'Rules' pimping Tracker songs from the 90's:
+For pimping tracker songs from the 90's:
 
 - No new material.
 - Reuse and transform existing musical information.
 - Use former sample library.
 
-That way I respect what it was,  
-will limit how far I go,  
-and can be pragmatic finishing things up.
+This respects what it was,  
+limits how far to go,  
+and pragmatically finishes things up.
 
 ### Lessons Learned
 
 Basics:
 
 - Originality is overrated
-- Repetition is fine
+- Repetition is OK
 - The perfect pattern doesn't exist
 
 Progression / variation:
@@ -38,7 +38,7 @@ Progression / variation:
 - Build up calmly:
 - The instruments
 - And tonal/harmonic progression
-- Too many things going on at the same time
+- Avoid too many things going on at the same time
 
 Feeling:
 
@@ -46,7 +46,7 @@ Feeling:
 - Don't lead with pride
 - Don't fear being mocked
 - Abandon a bad idea
-- No finetuning till it falls apart
+- Avoid finetuning till it falls apart
 
 Technique:
 
@@ -58,7 +58,7 @@ Analysis:
 
 - Analyze musical / harmonic content for opportunities to vary
 - One complicated loop may contain so much musical information that you might build a whole track around it.
-- There are only so many audible frequencies to saturate.
+- Remember there are only so many audible frequencies you can saturate.
 
 ### Expression
 
@@ -68,7 +68,7 @@ TODO:
 - [ ] ~ Go by all effects ?
 - [ ] ~ Read all the Impulse Tracker docs ?
 - [ ] ~ Learn filter mechanisms from other mods ?
-- [ ] ~ Separate listings for each effect or technique ?
+- [ ] ~ Separately list each effect or technique ?
 - [ ] Watch the line where pitch expression crosses over to composition.
 
 #### Expression Dimensions
@@ -82,13 +82,13 @@ TODO:
 
 #### Volume Expressions
 
-- Volume of note
+- Volume of a note
 - Volume attack
 - Volume decay
-- Volume slide up (crescendo)
-- Volume side down (decrescendo)
 - Volume fade (with fade out)
 - Volume fade (with envelope)
+- Volume slide up (crescendo)
+- Volume slide down (decrescendo)
 - Volume tremolo depth
 - Volume tremolo speed
 - Volume tremolo rate
@@ -98,7 +98,7 @@ TODO:
 - Volume tremolo with envelope (with loop)
 - Volume tremolo with envelope (no loop)
 - Volume tremolo with envelope (with loop/carry)
-- Volume tremolo with envelope (no loop with carry)
+- Volume tremolo with envelope (no loop, with carry)
 - Volume swing
 - Volume overall
 - Volume relative between instruments/voices
@@ -108,18 +108,19 @@ TODO:
 - Volume changes fluent
 - Volume changes abrupt
 - Volume emphasis raise one volume lower others
-- .. add effects column options
+- .. Add volume column options.
+- .. Add effects column options.
 
 #### Pitch Expressions
 
-- Pitch attack up
-- Pitch attack down
-- Pitch decay up
-- Pitch decay down
-- Pitch release up
-- Pitch release down
-- Pitch bend up
-- Pitch bend down
+- Pitch attack upward
+- Pitch attack downward
+- Pitch decay upward
+- Pitch decay downward
+- Pitch release upward
+- Pitch release downward
+- Pitch bend upward
+- Pitch bend downward
 - Pitch glissando (slide from note to note)
 - Pitch vibrato depth
 - Pitch vibrato speed
@@ -132,8 +133,9 @@ TODO:
 - Pitch vibrato with envelope (with loop/carry)
 - Pitch vibrato with envelope (no loop with carry)
 - Pitch intentionally out of tune
-- .. see other envelope properties
-- .. add effects column options
+- .. See other envelope properties.
+- .. Add volume column options.
+- .. Add effects column options.
 
 #### Panning Expressions
 
@@ -158,19 +160,22 @@ TODO:
 - Panning changes fluent
 - Panning changes abrupt
 - Panning emphasis with sudden change
-- Panning with phase shift
-- .. see other envelope properties
-- .. add effects column options
+- Panning phase shift
+- Panning with surround
+- .. See other envelope properties.
+- .. Add effects column options.
 
 #### Filtering Expressions
 
 - Filter (with sample offset)
 - Filter (sample variations)
-- Filter (overtones octave / fifth / etc.)
-- Filter (negate + overtones) 
+- Filter (adding overtones octave/fifth/etc.)
+- Filter (negate/cancel overtones)
+- Filter (add up shifted versions)
 - Filter (stacking partials)
 - Filter (detune)
-- Filter of a note
+- Filter timbre change by shifting further into a sample
+- Filter on a single note
 - Filter attack (soft to bright)
 - Filter attack (bright to soft)
 - Filter decay (soft to bright)
@@ -185,8 +190,8 @@ TODO:
 - Filter modulation wave form
 - Filter modulation regular
 - Filter modulation irregular
-- Filter using volume envelopes on partials
-- Filter using volume envelopes on partials (with carry)
+- Filter with volume envelopes on partials
+- Filter with volume envelopes on partials (with carry)
 - Filter swing
 - Filter relative between instruments/voices
 - Filter relative in melody
@@ -202,7 +207,7 @@ TODO:
 - Timing note start later
 - Timing note start relative between melody notes
 - Timing note start relative between chord notes
-- Timing instruments/voices independent flow
+- Timing independent flow of instruments/voices
 - Timing note end (staccato / legato)
 - Timing regular tempo
 - Timing fluent tempo changes
@@ -262,8 +267,10 @@ Steps Roughly
     - [x] Finding out how to record XM songs.
     - [x] Finding a way to record MiniDisk content to PC.
     - [ ] Try finding tape cassettes in storage.
+    - [ ] .. Expression techniques
 - [ ] .. Organizing samples
 - [ ] Volume maximization
+- [ ] Song changes
 
 
 Songs / Tasks / Requirements
@@ -301,10 +308,10 @@ Songs / Tasks / Requirements
     - [ ] Made using Logic Audio sequencer and Sound Blaster 64 wave table
     - [ ] MiniDisk song __20__ = shorter
     - [ ] MiniDisk song __22__ + __23__ + __24__ = longer version, in parts for some reason, ends with theme. A bit long.
-    - [ ] Perhaps publish do both.
+    - [ ] Perhaps publish both.
     - [ ] High amplification factor. Might re-record.
-    - [ ] Tones seem harsh. Perhaps effect creating more harmonics. Exciter effect?
-    - [ ] Perhaps make give longer notes a volume envelope for subtlety vs harshness.
+    - [ ] Tones seem harsh. Perhaps effect for creating more harmonics. Exciter effect?
+    - [ ] Longer notes a volume envelope for subtlety vs harshness?
 - [ ] Funky Counterpoint
     - [ ] MiniDisk song __21__
     - [ ] Nicer sort of funky counterpoint.
@@ -318,8 +325,7 @@ Songs / Tasks / Requirements
     - [x] Mixing
     - [x] Cleaner envelopes
     - [x] Fixing 'errors' / details
-    - [x] Fade-out
-    - [x] End-fade simpler slow tremolo violin notes 
+    - [x] End-fade
     - [x] Vertical build-up
     - [x] Some horizontal build-up
     - [ ] Synth melody more expression
