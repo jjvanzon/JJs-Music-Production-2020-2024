@@ -203,16 +203,46 @@ TODO:
 
 #### Timing Expressions
 
+- Timing overall tempo
+- Timing speed up
+- Timing slow down
+- Timing speed up, then slow down
+- Timing measure speeds up
+- Timing measure slows down
+- Timing measure speeds up then slows down
+- Timing measure slows down then speeds up
+- Timing measure slows down and speads up repeatedly
+- Timing phrase speeds up
+- Timing phrase slows down
+- Timing phrase speeds up then slows down
+- Timing phrase slows down then speeds up
+- Timing phrase slows down and speads up repeatedly
+- Timing slow down at the end of a phrase
+- Timing fragment speed up
+- Timing fragment slow down
+- Timing fragment speed up then slow down
+- Timing fragment slow down then speed up
+- Timing slow down at the end of a fragment
+- Timing overall speed up
+- Timing overall speed slow down
+- Timing overall speed then slow down
+- Timing slow down at the end
+- Timing skewed variations thereof
+- Timing combinatory variations thereof
 - Timing note start earlier
 - Timing note start later
-- Timing note start relative between melody notes
-- Timing note start relative between chord notes
-- Timing independent flow of instruments/voices
 - Timing note end (staccato / legato)
+- Timing note start relative between melody notes
+- Timing note end relative between melody notes
+- Timing note start relative between chord notes
+- Timing note end relative between chord notes
+- Timing independent flow of instruments/voices
+- Timing relative between fragments
 - Timing regular tempo
 - Timing fluent tempo changes
 - Timing abrupt tempo changes (rubato)
-- .. compare with volume options above
+- Timing emphasis by abrupt deviation
+- .. Add effects column options.
 
 #### Echo Expressions
 
